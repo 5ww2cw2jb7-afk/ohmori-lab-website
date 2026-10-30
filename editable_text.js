@@ -227,6 +227,26 @@ window.OHMORI_EDITABLE = {
       "ja": "※ 添付された既存HTMLをそのまま収録しています。公開前にデータの出典・ライセンス・注意書きを確認してください。",
       "en": "Note: The original HTML was included without modification. Check data sources, licenses, and scientific caveats before public release."
     },
+    "csvAppTitle": {
+      "ja": "CSV Data Visualization App — R / Shiny",
+      "en": "CSV Data Visualization App — R / Shiny"
+    },
+    "csvAppText": {
+      "ja": "令和5年度データサイエンス講習会の課題としてRで制作したWebアプリケーションです。CSVファイルを読み込み、ヒストグラム、散布図、箱ひげ図を作成できます。",
+      "en": "An R/Shiny web application developed for a FY2023 data science workshop assignment. Upload CSV files to create histograms, scatter plots, and box plots."
+    },
+    "csvJbicText": {
+      "ja": "データサイエンス講習会については、JBICの案内をご参照ください。",
+      "en": "For information about the data science workshop, please visit JBIC."
+    },
+    "csvJbicButton": {
+      "ja": "JBIC 講習会の紹介 ↗",
+      "en": "JBIC workshop information ↗"
+    },
+    "csvAppButton": {
+      "ja": "アプリを開く ↗",
+      "en": "Open app ↗"
+    },
     "text_029": {
       "ja": "Ohmori Lab",
       "en": "Ohmori Lab"
