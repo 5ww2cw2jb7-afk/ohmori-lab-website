@@ -420,8 +420,8 @@ window.OHMORI_EDITABLE = {
       "en": "researchmap ↗"
     },
     "text_014": {
-      "ja": "researchmapの2026年10月28日付エクスポートに含まれる公開業績を掲載しています。更新は次回データ取込時に反映されます。",
-      "en": "researchmapの2026年10月28日付エクスポートに含まれる公開業績を掲載しています。更新は次回データ取込時に反映されます。"
+      "ja": "研究業績はresearchmapの公開データをもとに掲載しています。データは定期的に自動取得・更新しています。",
+      "en": "Publications are based on publicly available researchmap records. The data are retrieved and updated automatically on a regular schedule."
     },
     "text_015": {
       "ja": "種別",
@@ -437,7 +437,7 @@ window.OHMORI_EDITABLE = {
     },
     "text_018": {
       "ja": "データの出典：researchmap。更新は公開情報の取得状況に依存します。正式な記録はresearchmapでご確認ください。",
-      "en": "データの出典：researchmap。更新は公開情報の取得状況に依存します。正式な記録はresearchmapでご確認ください。"
+      "en": "Source: researchmap. Publication records are retrieved automatically on a regular schedule, but updates depend on the availability and accessibility of public data from researchmap. Please refer to researchmap for authoritative records."
     },
     "text_019": {
       "ja": "原データを開く ↗",
