@@ -35,16 +35,16 @@ function renderPublications(){
   list.append(article);
  }
  if(!visible.length){const div=document.createElement('div');div.className='pub-empty';div.textContent=publicationItems.length?(lang==='ja'?'該当する業績はありません。':'No matching publications.'):(lang==='ja'?'業績データはまだ取り込まれていません。researchmapへのリンクから業績をご覧いただけます。':'Publication data have not yet been imported. Please use the researchmap link to browse the records.');list.append(div)}
- const status=document.getElementById('pub-status');if(publicationItems.length) status.textContent=(lang==='ja'?'表示：':'Showing: ')+visible.length+' / '+publicationItems.length+' · '+(window.pubIsComplete?(lang==='ja'?'researchmapエクスポート全件（2026-10-28）':'researchmap export (2026-10-28)'):(lang==='ja'?'確認済みの一部（全件未取得）':'Verified selection (not complete)'));
+ const status=document.getElementById('pub-status');if(publicationItems.length) status.textContent=(lang==='ja'?'表示：':'Showing: ')+visible.length+' / '+publicationItems.length+' · '+(window.pubIsComplete?(lang==='ja'?(window.pubSynchronized?'researchmap同期済み':'researchmapエクスポート全件（2026-10-28）'):(window.pubSynchronized?'Synced from researchmap':'researchmap export (2026-10-28)')):(lang==='ja'?'確認済みの一部（全件未取得）':'Verified selection (not complete)'));
 }
 async function initPublications(){
  const status=document.getElementById('pub-status');
  let source='embedded';
  try{
   // GitHub Pages では更新済みの JSON を優先。ローカル file:// では埋め込みデータを使用。
-  if(false && location.protocol!=='file:'){
+  if(location.protocol!=='file:'){
    const response=await fetch('./publications.json',{cache:'no-store'});
-   if(response.ok){const payload=await response.json();if(Array.isArray(payload.items)&&payload.items.length){publicationItems=payload.items;source='json';window.pubIsComplete=Boolean(payload.counts)}}
+   if(response.ok){const payload=await response.json();if(Array.isArray(payload.items)&&payload.items.length){publicationItems=payload.items;source='json';window.pubIsComplete=Boolean(payload.counts);window.pubSynchronized=true}}
   }
  }catch(e){/* 埋め込み済みの確認済み業績を表示 */}
  const years=[...new Set(publicationItems.map(r=>r.year).filter(Boolean))].sort().reverse();
