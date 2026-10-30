@@ -1,0 +1,31 @@
+name: Sync researchmap publications
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 1 * * 1' # Monday at 10:37 JST
+permissions:
+  contents: write
+concurrency:
+  group: researchmap-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download and validate public records
+        env:
+          RESEARCHMAP_PERMALINK: Y_Ohmori
+        run: python scripts/sync_researchmap.py
+      - name: Commit updated JSON only when changed
+        run: |
+          if git diff --quiet -- publications.json && ! test -f publications.json; then exit 0; fi
+          git add publications.json
+          if git diff --cached --quiet; then echo 'No updates'; exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update researchmap publications'
+          git push
