@@ -1,0 +1,1293 @@
+{
+  "source": "researchmap public API",
+  "permalink": "Y_Ohmori",
+  "updatedAt": "2026-10-30T08:38:23+00:00",
+  "counts": {
+    "papers": 61,
+    "misc": 63,
+    "books": 5,
+    "presentations": 31
+  },
+  "items": [
+    {
+      "type": "papers",
+      "year": "2026",
+      "title": "Metabolome genome-wide association study reveals hierarchical and epistatic genetic control of flavonoid metabolism in soybean",
+      "authors": "Taisei Hatta, Kosuke Hamazaki, Yushiro Fuji, Yusuke Toda, Yasunori Ichihashi, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Toru Fujiwara, Masami Yokota Hirai, Hiroyoshi Iwata",
+      "venue": "",
+      "url": "https://doi.org/10.64898/2026.07.23.739694"
+    },
+    {
+      "type": "papers",
+      "year": "2026",
+      "title": "Integration of proxy intermediate omics traits into a nonlinear two-step model for accurate phenotypic prediction",
+      "authors": "Hayato Yoshioka, Tristan Mary-Huard, Julie Aubert, Yusuke Toda, Yoshihiro Ohmori, Yuji Yamasaki, Hisashi Tsujimoto, Hirokazu Takahashi, Mikio Nakazono, Hideki Takanashi, Toru Fujiwara, Mai Tsuda, Akito Kaga, Jun Inaba, Yushiro Fuji, Masami Yokota Hirai, Yui Nose, Kie Kumaishi, Erika Usui, Shungo Kobori, Takumi Sato, Megumi Narukawa, Yasunori Ichihashi, Hiroyoshi Iwata",
+      "venue": "Theoretical and Applied Genetics",
+      "url": "https://doi.org/10.1007/s00122-026-05171-3"
+    },
+    {
+      "type": "papers",
+      "year": "2026",
+      "title": "Conserved statistical organization of cis-regulatory landscapes defines a fluctuation-structured regulatory phase",
+      "authors": "Yoshihiro Ohmori",
+      "venue": "",
+      "url": "https://doi.org/10.64898/2026.02.06.704399"
+    },
+    {
+      "type": "papers",
+      "year": "2026",
+      "title": "Gene-centered identification of cis-regulatory islands reveals regulatory landscapes complementary to motif-centric approaches",
+      "authors": "Yoshihiro Ohmori",
+      "venue": "BMC GENOMICS",
+      "url": "https://doi.org/10.64898/2026.01.05.697455"
+    },
+    {
+      "type": "papers",
+      "year": "2025",
+      "title": "Genome-wide association study identifies key chromosomal regions in rice promoting the enrichment of diazotrophic iron-reducing bacteria in paddy soil",
+      "authors": "Li-Yen Lin, Zhihang Feng, Hikaru Asano, Yoshihiro Ohmori, Hirotomo Ohba, Yoko Masuda, Keishi Senoo, Toru Fujiwara",
+      "venue": "PLANT AND SOIL",
+      "url": "https://doi.org/10.1007/s11104-025-07384-9"
+    },
+    {
+      "type": "papers",
+      "year": "2025",
+      "title": "Transcriptome and gene co-expression network analysis revealed a putative regulatory mechanism of low nitrogen response in rice seedlings",
+      "authors": "Bright G. Adu, Yoshihiro Ohmori, Astushi J. Nagano, Toru Fujiwara",
+      "venue": "FRONTIERS IN PLANT SCIENCE",
+      "url": "https://doi.org/10.3389/fpls.2025.1547897"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "P3-2-2 イネ根圏における鉄還元菌活性の品種間差に関する統合ネットワーク解析 （3-2 土壌生物の応用と制御 2025年度新潟大会）",
+      "authors": "大森 良弘, 浅野 光琉, 増田 曜子, 大峽 広智, 妹尾 啓史, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.71.0_43_2"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "P4-1-12 アフリカイネ由来のリン欠乏応答遺伝子変異体の解析 （4-1 植物の多量栄養素 2025年度新潟大会）",
+      "authors": "松永 幸子, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.71.0_55_3"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "“Soil and plant science for a sustainable future”: 2nd “Sustainable food production”",
+      "authors": "Fujiwara Toru, Ohtsu-Ohkama Naoko, Miwa Kyoko, Makino Amane, Ohmori Yoshihiro, Ishikawa Satoru, Shinano Takuro, Senoo Keishi",
+      "venue": "Japanese Journal of Soil Science and Plant Nutrition",
+      "url": "https://doi.org/10.20710/dojo.96.1_30"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "アフリカイネ由来のリン欠乏応答遺伝子変異体の解析",
+      "authors": "松永幸子, 大森良弘, 藤原徹",
+      "venue": "日本土壌肥料学会講演要旨集(Web)",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "イネ根圏における鉄還元菌活性の品種間差に関する統合ネットワーク解析",
+      "authors": "大森良弘, 浅野光琉, 増田曜子, 増田曜子, 大峽広智, 妹尾啓史, 妹尾啓史, 藤原徹",
+      "venue": "日本土壌肥料学会講演要旨集(Web)",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "Simulation Study on Genomic Prediction for Intercropping",
+      "authors": "木下青, 高梨秀樹, 大森良弘, 高橋宏和, 市橋泰範, 藤佑志郎, 津田麻衣, 石井孝佳, 石井孝佳, GUO W., 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "Selection and crossing of soybean RILs based on ionomic and genomic data for improving drought tolerance across distinct controlled environments",
+      "authors": "樽本ひなの, 櫻井建吾, 木下青, 戸田悠介, 大森良弘, 津田麻衣, 辻本壽, 加賀秋人, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "Integrative Analysis of Drought Response Using Multi-Omics Data in a Soybean RIL Population",
+      "authors": "高橋祐樹, 櫻井建吾, 戸田悠介, 藤佑志郎, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 平井優美, 辻本壽, 中園幹生, 藤原徹, 加賀秋人, 岩田洋佳, 師田郷太",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2025",
+      "title": "Assessment of Crop Interactions in Soybean-Sorghum Intercropping Using Time-Series UAV Data",
+      "authors": "砂川隼秀, 櫻井建吾, 木下青, LIU J., LIU J., 石井孝佳, 石井孝佳, 高梨秀樹, 岡田眞銀, 藤佑志郎, 大森良弘, 高橋宏和, 津田麻衣, GUO W., 市橋泰範, 岩田洋佳, 平井優美",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2025",
+      "title": "イネ根圏における鉄還元菌活性の品種間差に関する統合ネットワーク解析",
+      "authors": "大森 良弘, 浅野 光琉, 増田 曜子, 大峽 広智, 妹尾 啓史, 藤原 徹",
+      "venue": "日本土壌肥料学 2025年度新潟大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "High-throughput Phenotyping of Soybean Biomass: Conventional Trait Estimation and Novel Latent Feature Extraction Using UAV Remote Sensing and Deep Learning Models",
+      "authors": "Mashiro Okada, Clément Barras, Yusuke Toda, Kosuke Hamazaki, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Masami Yokota Hirai, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Toru Fujiwara, Hiroyoshi Iwata",
+      "venue": "Plant Phenomics",
+      "url": "https://doi.org/10.34133/plantphenomics.0244"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "Transcriptome Analysis of Rice Root Tips Reveals Auxin, Gibberellin and Ethylene Signaling Underlying Nutritropism.",
+      "authors": "Kiyoshi Yamazaki, Yoshihiro Ohmori, Hirokazu Takahashi, Atsushi Toyoda, Yutaka Sato, Mikio Nakazono, Toru Fujiwara",
+      "venue": "Plant & cell physiology",
+      "url": "https://doi.org/10.1093/pcp/pcae003"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "Raising root zone temperature improves plant productivity and metabolites in hydroponic lettuce production",
+      "authors": "Sota Hayashi, Christopher P. Levine, Wakabayashi Yu, Mayumi Usui, Atsuyuki Yukawa, Yoshihiro Ohmori, Miyako Kusano, Makoto Kobayashi, Tomoko Nishizawa, Ikusaburo Kurimoto, Saneyuki Kawabata, Wataru Yamori",
+      "venue": "FRONTIERS IN PLANT SCIENCE",
+      "url": "https://doi.org/10.3389/fpls.2024.1352331"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "<scp>OsbZIP1</scp> regulates phosphorus uptake and nitrogen utilization, contributing to improved yield",
+      "authors": "Nobuhiro Tanaka, Saki Yoshida, Md. Saiful Islam, Kiyoshi Yamazaki, Toru Fujiwara, Yoshihiro Ohmori",
+      "venue": "The Plant Journal",
+      "url": "https://doi.org/10.1111/tpj.16598"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "A fungal abscisic acid and botrydial metabolic gene cluster critical for mutualist-pathogen transition in root endophyte <i>Colletotrichum tofieldiae</i>",
+      "authors": "yoshihiro ohmori",
+      "venue": "MOLECULAR PLANT-MICROBE INTERACTIONS",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2024",
+      "title": "Differences in the Aroma Profiles of Seedless-treated and Nontreated ‘Shine Muscat’ Grape Berries Decrease with Ripening",
+      "authors": "Chikako Honda, Fukuyo Tanaka, Yoshihiro Ohmori, Amane Tanaka, Kotone Komazaki, Kengo Izumi, Ken-ichiro Ichikawa, Saneyuki Kawabata, Atsushi J. Nagano",
+      "venue": "The Horticulture Journal",
+      "url": "https://doi.org/10.2503/hortj.szd-002"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "P4-1-17 野生イネ断片ゲノム導入によって獲得した低リン耐性関連遺伝子の探索（4-1 植物の多量栄養素 2024年度福岡大会）",
+      "authors": "松永 幸子, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.70.0_53_1"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "RNAseq and physiological analysis in wild soybean lines with different low phosphorus tolerance",
+      "authors": "Kiriyama Yuto, Arun Daspute Abhijit, Ohmori Yoshihiro, Kanai Go, Obayashi Kan, Li Feng, Ishimoto Masao, Hashiguchi Masatsugu, Takano Junpei, Yanase Masanori",
+      "venue": "Abstracts of Meeting of the CSSJ",
+      "url": "https://doi.org/10.14829/jcsproc.257.0_156"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "Ion-gene co-expression analysis to explore the mechanism of phosphorus deficiency tolerance derived from wild rice",
+      "authors": "松永幸子, 大森良弘, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "LED光源付の培養装置で生育不良を示すイネ変異体の発見とその遺伝的解析",
+      "authors": "野口(舟山)幸子, 大森良弘, 藤原徹",
+      "venue": "日本植物学会大会研究発表記録(CD-ROM)",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "野生イネ断片ゲノム導入によって獲得した低リン耐性関連遺伝子の探索",
+      "authors": "松永幸子, 大森良弘, 藤原徹",
+      "venue": "日本土壌肥料学会講演要旨集(Web)",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "Assosiation analysis of metabolomic data in soybean for metabolic pathway and genomic region by metabolome GWAS",
+      "authors": "八田大成, 藤佑志郎, 戸田悠介, 市橋泰範, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 辻本壽, 加賀秋人, 中園幹生, 藤原徹, 平井優美, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2024",
+      "title": "Fusion of remote sensing data collected at different scales through statistical modeling",
+      "authors": "福本勇太, CHEN T., CHEN T., 岡田昌宏, 戸田悠介, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, GUO W., 平井優美, 辻本壽, 加賀秋人, 中園幹生, 藤原徹, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2023",
+      "title": "Controlling root zone temperature improves plant growth and pigments in hydroponic lettuce",
+      "authors": "Christopher P. Levine, Sota Hayashi, Yoshihiro Ohmori, Miyako Kusano, Makoto Kobayashi, Tomoko Nishizawa, Ikusaburo Kurimoto, Saneyuki Kawabata, Wataru Yamori",
+      "venue": "ANNALS OF BOTANY",
+      "url": "https://doi.org/10.1093/aob/mcad127"
+    },
+    {
+      "type": "papers",
+      "year": "2023",
+      "title": "A fungal sesquiterpene biosynthesis gene cluster critical for mutualist-pathogen transition in Colletotrichum tofieldiae.",
+      "authors": "Kei Hiruma, Seishiro Aoki, Junya Takino, Takeshi Higa, Yuniar Devi Utami, Akito Shiina, Masanori Okamoto, Masami Nakamura, Nanami Kawamura, Yoshihiro Ohmori, Ryohei Sugita, Keitaro Tanoi, Toyozo Sato, Hideaki Oikawa, Atsushi Minami, Wataru Iwasaki, Yusuke Saijo",
+      "venue": "Nature communications",
+      "url": "https://doi.org/10.1038/s41467-023-40867-w"
+    },
+    {
+      "type": "papers",
+      "year": "2023",
+      "title": "Reaction norm for genomic prediction of plant growth: modeling drought stress response in soybean",
+      "authors": "Yusuke Toda, Goshi Sasaki, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Hiromi Kajiya-Kanegae, Hisashi Tsujimoto, Akito Kaga, Masami Hirai, Mikio Nakazono, Toru Fujiwara, Hiroyoshi Iwata",
+      "venue": "THEORETICAL AND APPLIED GENETICS",
+      "url": "https://doi.org/10.21203/rs.3.rs-3267332/v1"
+    },
+    {
+      "type": "papers",
+      "year": "2023",
+      "title": "Random regression for modeling soybean plant response to irrigation changes using time-series multispectral data",
+      "authors": "Kengo Sakurai, Yusuke Toda, Kosuke Hamazaki, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Toru Fujiwara, Hiroyoshi Iwata",
+      "venue": "Frontiers in Plant Science",
+      "url": "https://doi.org/10.3389/fpls.2023.1201806"
+    },
+    {
+      "type": "papers",
+      "year": "2023",
+      "title": "Evaluating drought tolerance stability in soybean by theresponse of irrigation change captured from time-seriesmultispectral data",
+      "authors": "yoshihiro ohmori",
+      "venue": "bioRxiv",
+      "url": "https://doi.org/10.1101/2023.04.05.535659"
+    },
+    {
+      "type": "misc",
+      "year": "2023",
+      "title": "4. Identification of rice lines that grow better under low-nutrient conditions and analysis of their physiological and genetic characteristics: Low-nutrient response network in wild rice introgression lines",
+      "authors": "Ohmori Yoshihiro",
+      "venue": "Japanese Journal of Soil Science and Plant Nutrition",
+      "url": "https://doi.org/10.20710/dojo.94.6_469"
+    },
+    {
+      "type": "misc",
+      "year": "2023",
+      "title": "Ionome analysis of a segregated population in Sakhalin fir: genetic and environmental factors of shoot elongation",
+      "authors": "Goto Susumu, Oomori Yoshihiro, Mori Hideki, Taneda Haruhiko",
+      "venue": "The Japanese Forest Society Congress",
+      "url": "https://doi.org/10.11519/jfsc.134.0_146"
+    },
+    {
+      "type": "misc",
+      "year": "2023",
+      "title": "OsbZIP1 regulates phosphorus and nitrogen uptake, contributing to improved yield",
+      "authors": "田中伸裕, 吉田紗貴, SAIFUL Islam, 山崎清志, 藤原徹, 大森良弘",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2023",
+      "title": "Fusion of UAV remote sensing data and hand-measured data based on a nonlinear growth model",
+      "authors": "福本勇太, CHEN T., CHEN T., 戸田悠介, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 平井優美, 辻本壽, 加賀秋人, 中園幹生, 藤原徹, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2023",
+      "title": "Selection of cross combinations based on genomic-ionomic prediction models: application to the breeding of drought tolerant soybean lines",
+      "authors": "岩田洋佳, 戸田悠介, 櫻井建吾, 藤佑志郎, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 鐘ケ江弘美, 平井優美, 市橋泰範, 辻本壽, 中園幹生, 藤原徹, 加賀秋人",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2022",
+      "title": "Time-series multispectral imaging in soybean for improving biomass and genomic prediction accuracy.",
+      "authors": "Kengo Sakurai, Yusuke Toda, Hiromi Kajiya-Kanegae, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Toru Fujiwara, Hiroyoshi Iwata",
+      "venue": "The plant genome",
+      "url": "https://doi.org/10.1002/tpg2.20244"
+    },
+    {
+      "type": "papers",
+      "year": "2022",
+      "title": "A fungal secondary metabolism gene cluster enables mutualist-pathogen transition in root endophyte <i>Colletotrichum tofieldiae</i>",
+      "authors": "Kei Hiruma, Seishiro Aoki, Yuniar Devi Utami, Masanori Okamoto, Nanami Kawamura, Masami Nakamura, Yoshihiro Ohmori, Ryohei Sugita, Keitaro Tanoi, Toyozo Sato, Wataru Iwasaki, Yusuke Saijo",
+      "venue": "bioRxiv",
+      "url": "https://doi.org/10.1101/2022.07.07.499222"
+    },
+    {
+      "type": "papers",
+      "year": "2022",
+      "title": "A Koshihikari x Oryza rufipogon Introgression Line with a High Capacity to Take Up Nitrogen to Maintain Growth and Panicle Development Under Low Nitrogen Conditions.",
+      "authors": "Bright G Adu, Aizelle Y S Argete, Sakiko Egawa, Astushi J Nagano, Akifumi Shimizu, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Plant & cell physiology",
+      "url": "https://doi.org/10.1093/pcp/pcac097"
+    },
+    {
+      "type": "papers",
+      "year": "2022",
+      "title": "Growth and Nitrate Reductase Activity are Impaired in Rice <i>Osnlp4</i> Mutants Supplied with Nitrate (vol 62, pg 1156, 2021)",
+      "authors": "Mengyao Wang, Takahiro Hasegawa, Marcel Beier, Makoto Hayashi, Yoshihiro Ohmori, Kenji Yano, Shota Teramoto, Takehiro Kamiya, Toru Fujiwara",
+      "venue": "PLANT AND CELL PHYSIOLOGY",
+      "url": "https://doi.org/10.1093/pcp/pcab136"
+    },
+    {
+      "type": "papers",
+      "year": "2022",
+      "title": "Genomic Prediction of Green Fraction Dynamics in Soybean Using Unmanned Aerial Vehicles Observations.",
+      "authors": "Yusuke Toda, Goshi Sasaki, Yoshihiro Ohmori, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Mai Tsuda, Hiromi Kajiya-Kanegae, Raul Lopez-Lozano, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Toru Fujiwara, Frederic Baret, Hiroyoshi Iwata",
+      "venue": "Frontiers in plant science",
+      "url": "https://doi.org/10.3389/fpls.2022.828864"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "P4-1-9 イネ根圏における鉄還元菌の活性に地上部と地下部の重量比が関与する（4-1 植物の多量栄養素 2022年度東京大会）",
+      "authors": "矢木 貴也, 大森 良弘, 増田 曜子, 妹尾 啓史, 大峽 広智, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.68.0_44_1"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "4-1-4 イネのOsbZIP1はリン吸収を制御し収量の改善に寄与する（4-1 植物の多量栄養素 2022年度東京大会）",
+      "authors": "田中 伸裕, 吉田 紗貴, 山崎 清志, 藤原 徹, 大森 良弘",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.68.0_37_1"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "P4-4-3 野生イネ染色体置換系統を用いたイオン−遺伝子共発現解析によるリン欠乏耐性機構の探索（4-4 植物の代謝成分と農作物の品質 2022年度東京大会）",
+      "authors": "松永 幸子, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.68.0_63_1"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Using multi-omics data as an intermediate phenotype to improve the accuracy of genomic prediction",
+      "authors": "岩田洋佳, 戸田悠介, 藤佑志郎, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 鐘ケ江弘美, 平井優美, 市橋泰範, 辻本壽, 加賀秋人, 中園幹生, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Estimating genetic correlation between traits and environments based on the analysis of high-dimensional ・multi-environmental multiomics data",
+      "authors": "櫻井建吾, 戸田悠介, 藤佑志郎, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 平井優美, 辻本壽, 中園幹生, 藤原徹, 加賀秋人, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Modeling of plant-microbe interactions using multi-omics data",
+      "authors": "吉岡勇人, 戸田悠介, 藤佑志郎, 大森良弘, 市橋泰範, 臼井絵里香, 熊石妃恵, 佐藤匠, 小堀峻吾, 加賀秋人, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 石森元幸, 辻本壽, 中園幹生, 平井優美, 藤原徹, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Predict genetic variation in drought tolerance of soybean based on a vegetation index and genomic information",
+      "authors": "櫻井建吾, 戸田悠介, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 石森元幸, 辻本壽, 加賀秋人, 中園幹生, 藤原徹, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Comprehensive genome-wide association study of multi-omics data for soybean drought tolerance",
+      "authors": "戸田悠介, 濱崎甲資, 岡田眞銀, 櫻井建吾, 藤佑志郎, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 鐘ヶ江弘美, 平井優美, 辻本壽, 加賀秋人, 中園幹生, 藤原徹, 市橋泰範, 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2022",
+      "title": "Quantitative evaluation and genetic analysis of soybean drought tolerance using deep learning models for classification of wilting",
+      "authors": "井町勇登, 戸田悠介, 大森良弘, 山崎裕司, 高橋宏和, 高梨秀樹, 津田麻衣, 鐘ヶ江弘美, 辻本壽, 加賀秋人, 平井優美, 中園幹生, 藤原徹, GUO W., 岩田洋佳",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2021",
+      "title": "Growth and nitrate reductase activity are impaired in rice osnlp4 mutantssupplied with nitrate.",
+      "authors": "Mengyao Wang, Takahiro Hasegawa, Marcel Beier, Makoto Hayashi, Yoshihiro Ohmori, Kenji Yano, Shota Teramoto, Takehiro Kamiya, Toru Fujiwara",
+      "venue": "Plant & cell physiology",
+      "url": "https://doi.org/10.1093/pcp/pcab035"
+    },
+    {
+      "type": "misc",
+      "year": "2021",
+      "title": "Methods for analyzing next-generation sequencing data XVII. The Future of Bioinformatics Education.",
+      "authors": "Kadota Koji, Ohmori Yoshihiro, Terada Tomoko, Miura Aya, Terada Tohru, Shimizu Kentaro",
+      "venue": "Japanese Journal of Lactic Acid Bacteria",
+      "url": "https://doi.org/10.4109/jslab.32.129, 10.4109/jslab.33.94_references_DOI_GniKCkg9turBiWxQbnnomS6XNc"
+    },
+    {
+      "type": "misc",
+      "year": "2021",
+      "title": "P4-1-12 Studies of the effect of rice cultivation on iron-reducing bacteria abundance in paddy soil（4-1 植物の多量栄養素 2021年度北海道大会）",
+      "authors": "馮 志航, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.67.0_56_2"
+    },
+    {
+      "type": "misc",
+      "year": "2021",
+      "title": "Prediction modeling of the biomass of soybean mini core collection under controlled environment",
+      "authors": "津田麻衣, 加賀秋人, 岩田洋佳, 大森良弘, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2020",
+      "title": "CURLED LATER1 encoding the largest subunit of the Elongator complex has a unique role in leaf development and meristem function in rice",
+      "authors": "Hikari Matsumoto, Yukiko Yasui, Yoshihiro Ohmori, Wakana Tanaka, Tetsuya Ishikawa, Hisataka Numa, Kenta Shirasawa, Yojiro Taniguchi, Junichi Tanaka, Yasuhiro Suzuki, Hiro‐Yuki Hirano",
+      "venue": "The Plant Journal",
+      "url": "https://doi.org/10.1111/tpj.14925"
+    },
+    {
+      "type": "papers",
+      "year": "2020",
+      "title": "DWARF WITH SLENDER LEAF1 Encoding a Histone Deacetylase Plays Diverse Roles in Rice Development.",
+      "authors": "Fumika Clara Kubo, Yukiko Yasui, Yoshihiro Ohmori, Toshihiro Kumamaru, Wakana Tanaka, Hiro-Yuki Hirano",
+      "venue": "Plant & cell physiology",
+      "url": "https://doi.org/10.1093/pcp/pcz210"
+    },
+    {
+      "type": "papers",
+      "year": "2020",
+      "title": "A Positive Tropism of Rice Roots toward a Nutrient Source.",
+      "authors": "Kiyoshi Yamazaki, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Plant & cell physiology",
+      "url": "https://doi.org/10.1093/pcp/pcz218"
+    },
+    {
+      "type": "papers",
+      "year": "2020",
+      "title": "Salt Tolerance Seedlings Derived from Putative Hybrid Pines (<i>Pinus</i> × <i>densi</i>-<i>thunbergii</i>)::Possibility of Candidate Materials for Coastal Forest Restoration",
+      "authors": "Yonemichi Takashi, Suyama Yoshihisa, Goto Susumu, Tsukagoshi Takeshi, Karukome Tsutomu, Hisamoto Yoko, Ohmori Yoshihiro, Lian Chunlan, P. Sato Mitsuhiko, Sasaki Takanori, Matsuo Ayumu",
+      "venue": "Journal of the Japanese Forest Society",
+      "url": "https://doi.org/10.4005/jjfs.102.101"
+    },
+    {
+      "type": "papers",
+      "year": "2020",
+      "title": "Ideal agriculture: Basic research and field technology supporting sustainable and innovative crop production",
+      "authors": "Senoo Keishi, Fuji Masako, Utami Yuniar Devi, Shimizu Yukiko, Saijo Yusuke, Ohmori Yoshihiro, Fujiwara Toru, Shiratori Yutaka, Ota Sayuri, Masuda Yoko, Itoh Hideomi, Notaguchi Michitaka, Tabata Ryo, Okayasu Koji, Sawai Yu, Suzuki Takamasa, Kurotani Ken-ichi",
+      "venue": "Japanese Journal of Soil Science and Plant Nutrition",
+      "url": "https://doi.org/10.20710/dojo.91.2_94"
+    },
+    {
+      "type": "misc",
+      "year": "2020",
+      "title": "QTL analysis of ionome using the segregated population in <i>Abies sachalinensis</i>",
+      "authors": "GOTO SUSUMU, OHMORI YOSHIHIRO, UCHIYAMA KENTRO, TANEDA HARUHIKO",
+      "venue": "The Japanese Forest Society Congress",
+      "url": "https://doi.org/10.11519/jfsc.131.0_124"
+    },
+    {
+      "type": "misc",
+      "year": "2020",
+      "title": "Functional analyses of the Elongator genes that regulate rice development",
+      "authors": "松本光梨, 安居佑季子, 大森良弘, 田中若奈, 田中若奈, 石川哲也, 沼寿隆, 白澤健太, 白澤健太, 谷口洋二郎, 田中淳一, 鈴木保宏, 平野博之",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2020",
+      "title": "イネの根が示す栄養屈性の特徴とその役割",
+      "authors": "大森 良弘, 山崎 清志, 藤原 徹",
+      "venue": "日本育種学会 第137回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2020",
+      "title": "Ionome as an Intermediate Phenotype of Soybean and its possible use for Genomic Prediction",
+      "authors": "Yoshihiro Ohmori, Ryokei Tanaka, Kiyoshi Yamazaki, Yusuke Toda, Yuji Yamasaki, Hirokazu Takahashi, Hideki Takanashi, Hiromi Kajiya-Kanegae, Mai Tsuda, Hisashi Tsujimoto, Akito Kaga, Mikio Nakazono, Hiroyoshi Iwata and Toru Fujiwara",
+      "venue": "The Plant and Animal Genome XXVIII, Soybean genomics W992, San Diego, California, USA",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2019",
+      "title": "42 蛍光X線分析による迅速・簡便なダイズ葉のイオノーム解析（関東支部講演会）",
+      "authors": "大森 良弘, 岩田 洋佳, 藤原 徹, 山崎 清志, 津田 麻衣, 鐘ケ江 弘美, 戸田 悠介, 山崎 裕司, 辻本 壽, 加賀 秋人, 中園 幹生",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.65.0_258_3"
+    },
+    {
+      "type": "misc",
+      "year": "2019",
+      "title": "個体の成長にともなって葉の形態を制御するイネ遺伝子の発生遺伝学的解析",
+      "authors": "松本光梨, 安居佑季子, 田中若奈, 大森良弘, 石川哲也, 沼寿隆, 白澤健太, 白澤健太, 谷口洋二郎, 田中淳一, 鈴木保宏, 平野博之",
+      "venue": "育種学研究",
+      "url": "https://doi.org/10.1270/jsbbr.21.W02"
+    },
+    {
+      "type": "misc",
+      "year": "2019",
+      "title": "P4-1-13 栄養濃度勾配に応答する植物根の新規屈性である栄養屈性の特性（4-1 植物の多量栄養素，2019年静岡大会）",
+      "authors": "山崎 清志, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.65.0_52_1"
+    },
+    {
+      "type": "misc",
+      "year": "2019",
+      "title": "「栄養屈性」の発見",
+      "authors": "山崎 清志, 大森 良弘",
+      "venue": "Annual report = 低温科学研究センター年報 / 低温科学研究センター編集委員会 編",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2019",
+      "title": "Ⅱ-4 貧栄養でもよく生育するイネ系統の同定とその生理遺伝特性の解析 イオン–遺伝子共発現解析から見出した野生イネ遺伝子資源が示す貧栄養応答ネットワーク（Ⅱ 理想の農業を追求する－サステイナブルで革新的な食糧生産を支える基礎研究と現場技術，2019年静岡大会）",
+      "authors": "大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.65.0_173_1"
+    },
+    {
+      "type": "presentations",
+      "year": "2019",
+      "title": "貧栄養でもよく生育するイネ系統の同定とその生理遺伝特性の解析",
+      "authors": "大森 良弘、藤原 徹",
+      "venue": "日本土壌肥料学会2019年度静岡大会、シンポジウムII、理想の農業を追求する-サステイナブルで革新的な食糧生産を支える基礎研究と現場技術",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2019",
+      "title": "野生イネの持つカリウム欠乏耐性遺伝子の同定",
+      "authors": "大森 良弘, 藤原 徹",
+      "venue": "日本育種学会 第135回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2018",
+      "title": "A rice PHD-finger protein OsTITANIA, is a growth regulator that functions through elevating expression of transporter genes for multiple metals.",
+      "authors": "Tanaka N, Uraguchi S, Kajikawa M, Saito A, Ohmori Y, Fujiwara T",
+      "venue": "The Plant journal",
+      "url": "https://doi.org/10.1111/tpj.14085"
+    },
+    {
+      "type": "papers",
+      "year": "2018",
+      "title": "WUSCHEL-RELATED HOMEOBOX4 acts as a key regulator in early leaf development in rice",
+      "authors": "Yasui Yukiko, Ohmori Yoshihiro, Takebayashi Yumiko, Sakakibara Hitoshi, Hirano Hiro-Yuki",
+      "venue": "PLOS GENETICS",
+      "url": "https://doi.org/10.1371/journal.pgen.1007365"
+    },
+    {
+      "type": "misc",
+      "year": "2018",
+      "title": "Studies on mineral accumulation and growth of rice in paddy fields",
+      "authors": "Ohmori Y.",
+      "venue": "Japanese Journal of Soil Science and Plant Nutrition",
+      "url": "https://doi.org/10.20710/dojo.89.5_369"
+    },
+    {
+      "type": "misc",
+      "year": "2018",
+      "title": "奨-1 フィールドにおけるイネの生育と元素蓄積に関する研究（日本土壌肥料学会奨励賞，2018年度神奈川大会）",
+      "authors": "大森 良弘",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.64.0_217_1"
+    },
+    {
+      "type": "misc",
+      "year": "2018",
+      "title": "イネのOsTTAは複数の金属輸送に関わる",
+      "authors": "田中伸裕, 田中伸裕, 浦口晋平, 浦口晋平, 梶川昌孝, 梶川昌孝, 斎藤彰宏, 斎藤彰宏, 大森良弘, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2018",
+      "title": "蛍光X線分析による迅速・簡便なダイズ葉のイオノーム解析",
+      "authors": "大森 良弘, 山崎 清志, 津田 麻衣, 鐘ケ江 弘美, 戸田 悠介, 山崎 裕司, 辻本 壽, 加賀 秋人, 中園 幹生, 岩田 洋佳, 藤原 徹",
+      "venue": "2018年土壌肥料学会 新潟 関東支部大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2018",
+      "title": "Ionome patterns of soybean leaves and plant growth under drought stress in fields",
+      "authors": "Yoshihro Ohmori, Kiyoshi Yamazaki, Mai Tsuda, Hiromi Kajiya-Kanegae, Yusuke Toda, Yuji Yamasaki, Hisashi Tsujimoto, Yuji Sawada, Akito Kaga, Mikio Nakazono, Hiroyoshi Iwata, Toru Fujiwara",
+      "venue": "5th International Plant Phenotyping Symposium",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2018",
+      "title": "Ion-gene co-expression network analysis of a wild rice introgression line in response to potassium deficiency",
+      "authors": "Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "16th International symposium on rice functional genomics",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2018",
+      "title": "フィールドにおけるイネの生育と元素蓄積 に関する研究",
+      "authors": "大森 良弘",
+      "venue": "日本土壌肥料学会 2018 年度神奈川大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2018",
+      "title": "カリウム欠乏耐性をもつ野生イネイントログレッション系統のトランスクリプトーム解析",
+      "authors": "大森 良弘, 藤原 徹",
+      "venue": "日本育種学会第133回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2017",
+      "title": "Effect of topsoil removal and selective countermeasures on radiocesium accumulation in rice plants in Fukushima paddy field",
+      "authors": "Baolu Yang, Yuichi Onda, Yoshihiro Ohmori, Hitoshi Sekimoto, Toru Fujiwara, Yoshifumi Wakiyama, Kazuya Yoshimura, Junko Takahashi, Xinchao Sun",
+      "venue": "SCIENCE OF THE TOTAL ENVIRONMENT",
+      "url": "https://doi.org/10.1016/j.scitotenv.2017.06.026"
+    },
+    {
+      "type": "papers",
+      "year": "2017",
+      "title": "P4-2-3 フィールドで栽培したダイス成熟葉のイオノーム解析（ポスター，4-2 植物の微量栄養素，2017年度仙台大会）",
+      "authors": "大森 良弘, 津田 麻衣, 鐘ケ江 弘美, 戸田 悠介, 山崎 裕司, 岡本 昌憲, 加賀 秋人, 岩田 洋佳, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.63.0_68_2"
+    },
+    {
+      "type": "papers",
+      "year": "2017",
+      "title": "Introduction to GWAS and MutMap for identification of genes/QTL using next-generation sequencing",
+      "authors": "Kenji Yano, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Plant Macronutrient Use Efficiency: Molecular and Genomic Perspectives in Crop Plants",
+      "url": "https://doi.org/10.1016/B978-0-12-811308-0.00017-X"
+    },
+    {
+      "type": "misc",
+      "year": "2017",
+      "title": "4-2-13 イネ0sTTA は複数の金属輸送体を正に制御する、 金属吸収に必須な因子である（4-2 植物の微量栄養素，2017年度仙台大会）",
+      "authors": "田中 伸裕, 浦口 晋平, 梶川 昌孝, 斎藤 彰宏, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.63.0_67_1"
+    },
+    {
+      "type": "misc",
+      "year": "2017",
+      "title": "トランスクリプトームとイオノームによるイネ低硝酸吸収突然変異体の特徴解析",
+      "authors": "寺本翔太, 大森良弘, 長谷川博, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "books",
+      "year": "2017",
+      "title": "Plant macro-nutrient use efficiency: molecular and genomic perspectives in crop plants",
+      "authors": "Kenji Yano, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Elsevier",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2017",
+      "title": "フィールドで栽培したダイズ成熟葉のイオノーム解析",
+      "authors": "大森 良弘, 津田 麻衣, 鐘ケ江 弘美, 戸田 悠介, 山崎 裕司, 岡本 昌憲, 加賀 秋人, 岩田 洋佳, 藤原 徹",
+      "venue": "日本土壌肥料学会 2017 年度仙台大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2016",
+      "title": "Phosphate Treatment Strongly Inhibits New Arbuscule Development But Not the Maintenance of Arbuscule in Mycorrhizal Rice Roots",
+      "authors": "Yoshihiro Kobae, Yoshihiro Ohmori, Chieko Saito, Koji Yano, Ryo Ohtomo, Toru Fujiwara",
+      "venue": "PLANT PHYSIOLOGY",
+      "url": "https://doi.org/10.1104/pp.16.00127"
+    },
+    {
+      "type": "papers",
+      "year": "2016",
+      "title": "Cultivar difference and fertilizer effects on radioactive cesium accumulation in rice grown in fukushima paddy field from 2011 to 2014",
+      "authors": "Nobuhiro Tanaka, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Impact of Cesium on Plants and the Environment",
+      "url": "https://doi.org/10.1007/978-3-319-41525-3_8"
+    },
+    {
+      "type": "papers",
+      "year": "2016",
+      "title": "Cesium accumulation in paddy field rice grown in fukushima from 2011 to 2013: Cultivars and fertilization",
+      "authors": "Yoshihiro Ohmori, Nobuhiro Tanaka, Toru Fujiwara",
+      "venue": "Agricultural Implications of the Fukushima Nuclear Accident: The First Three Years",
+      "url": "https://doi.org/10.1007/978-4-431-55828-6_4"
+    },
+    {
+      "type": "papers",
+      "year": "2016",
+      "title": "Identification of introgression lines of Oryza glaberrima Steud. with high mineral content in grains",
+      "authors": "Yoshihiro Ohmori, Naoyuki Sotta, Toru Fujiwara",
+      "venue": "SOIL SCIENCE AND PLANT NUTRITION",
+      "url": "https://doi.org/10.1080/00380768.2016.1204896"
+    },
+    {
+      "type": "misc",
+      "year": "2016",
+      "title": "イネ低硝酸吸収突然変異体の遺伝子マッピングおよび候補遺伝子の推定",
+      "authors": "寺本翔太, 大森良弘, 長谷川博, 谷坂隆俊, 藤原徹",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2016",
+      "title": "4-1-14 網羅的遺伝子発現解析からみたイネアデノシンキナーゼ（<i>OsADK1</i>）の機能性（4-1 植物の多量栄養素，2016年度佐賀大会）",
+      "authors": "奥村 啓史, 大森 良弘, 吉永 良平, 小嶋 美紀子, 榊原 均, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.62.0_47_2"
+    },
+    {
+      "type": "books",
+      "year": "2016",
+      "title": "Impact of Cesium on Plant and the Environment",
+      "authors": "Nobuhiro Tanaka, Yoshihiro Ohmori, Toru Fujiwara",
+      "venue": "Springer",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "books",
+      "year": "2016",
+      "title": "Agricultural Implications of the Fukushima Nuclear Accident The First Three Years",
+      "authors": "Yoshihiro Ohmori, Nobuhiro Tanaka, Toru Fujiwara",
+      "venue": "Springer",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2016",
+      "title": "野生イネイントログレッション系統の玄米中遊離アミノ酸解析",
+      "authors": "大森良弘, 藤原徹",
+      "venue": "日本育種学会第 130 回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2015",
+      "title": "Axillary Meristem Formation in Rice Requires the WUSCHEL Ortholog TILLERS ABSENT1",
+      "authors": "Wakana Tanaka, Yoshihiro Ohmori, Tomokazu Ushijima, Hiroaki Matsusaka, Tomonao Matsushita, Toshihiro Kumamaru, Shigeyuki Kawano, Hiro-Yuki Hirano",
+      "venue": "PLANT CELL",
+      "url": "https://doi.org/10.1105/tpc.15.00074"
+    },
+    {
+      "type": "misc",
+      "year": "2015",
+      "title": "4-1-31 低栄養耐性イネ作出に向けた野生イネ遺伝資源の探索(4-1 植物の多量栄養素,2015年度京都大会)",
+      "authors": "大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.61.0_58_1"
+    },
+    {
+      "type": "misc",
+      "year": "2015",
+      "title": "4-1-32 窒素、リン、カルシウム欠乏条件下で短根表現型を示すイネ変異体HCA7の網羅的遺伝子発現解析(4-1 植物の多量栄養素,2015年度京都大会)",
+      "authors": "奥村 啓史, 大森 良弘, 吉永 良平, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.61.0_58_2"
+    },
+    {
+      "type": "misc",
+      "year": "2015",
+      "title": "4-2-5 地上部のMn濃度が低下したイネ変異株の解析(4-2 植物の微量栄養素,2015年度京都大会)",
+      "authors": "田中 伸裕, 梶川 昌孝, 斎藤 彰宏, 大森 良弘, 浦口 晋平, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.61.0_66_2"
+    },
+    {
+      "type": "misc",
+      "year": "2015",
+      "title": "4-1-3 窒素源の種類によって生育の異なる変異株における網羅的遺伝子発現パターンの解析(4-1 植物の多量栄養素,2015年度京都大会)",
+      "authors": "長谷川 雄大, 大森 良弘, 矢野 幸司, 田中 伸裕, 林 誠, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.61.0_48_3"
+    },
+    {
+      "type": "presentations",
+      "year": "2015",
+      "title": "低栄養耐性イネ作出に向けた野生イネ遺伝資源の探索",
+      "authors": "大森良弘, 藤原徹",
+      "venue": "日本育種学会第 128 回講演",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "Selective induction of putative iron transporters, OPT8a and OPT8b, in maize by mycorrhizal colonization",
+      "authors": "Yoshihiro Kobae, Rie Tomioka, Keitaro Tanoi, Natsuko I. Kobayashi, Yoshihiro Ohmori, Sho Nishida, Toru Fujiwara",
+      "venue": "SOIL SCIENCE AND PLANT NUTRITION",
+      "url": "https://doi.org/10.1080/00380768.2014.949854"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "Overexpression analysis suggests that FON2-LIKE CLE PROTEIN1 is involved in rice leaf development",
+      "authors": "Yoshihiro Ohmori, Yukiko Yasui, Hiro-Yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://doi.org/10.1266/ggs.89.87"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice",
+      "authors": "Dai-Suke Sato, Yoshihiro Ohmori, Haruka Nagashima, Taiyo Toriba, Hiro-Yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://doi.org/10.1266/ggs.89.61"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "Cultivar-difference in cesium accumulation in rice grown in the paddy field in the Fukushima-city in the years of 2011 and 2012. In JPR Sympoium “Current status and future control of cesium contamination in plants and algae in Fukushima”",
+      "authors": "Ohmori Yoshihiro, Inui Yayoi, Kajikawa Masataka, Nakata Atsumi, Sotta Naoyuki, Kasai Koji, Uraguchi Shimpei, Tanaka Nobuhiro, Nishida Sho, Hasegawa Takahiro, Sakamoto Takuya, Kawara Yuko, Aizawa Kayoko, Fujita Haruka, Ke Li, Sawaki Naoya, Oda Koshiro, Futagoishi Ryuichiro, Tsusaka Takahiro, Takahashi Satomi, Takano Junpei, Wakuta Shinji, Yoshinari Akira, Uehara Masataka, Takada Shigeki, Nagano Hayato, Miwa Kyoko, Aibara Izumi, Ojima Takuya, Ebana Kaoru, Ishikawa Satoru, Sueyoshi Kuni, Hasegawa Hiroshi, Mimura Tetsuro, Mimura Mari, Kobayashi Natsuko, Furukawa Jun, Kobayashi Daisuke, Okochi Toshiyasu, Tanoi Keitaro, Fujiwara Toru",
+      "venue": "Journal of Plant Research",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "Draft genome sequence of the boron-tolerant and moderately halotolerant bacterium Gracilibacillus boraciitolerans JCM 21714T",
+      "authors": "Iftikhar Ahmed, Kenshiro Oshima, Wataru Suda, Keiko Kitamura, Toshiya Iida, Yoshihiro Ohmori, Toru Fujiwara, Masahira Hattori, Moriya Ohkuma",
+      "venue": "Genome Announcements",
+      "url": "https://doi.org/10.1128/genomeA.e00097-14"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "Difference in cesium accumulation among rice cultivars grown in the paddy field in Fukushima Prefecture in 2011 and 2012",
+      "authors": "Yoshihiro Ohmori, Yayoi Inui, Masataka Kajikawa, Atsumi Nakata, Naoyuki Sotta, Koji Kasai, Shimpei Uraguchi, Nobuhiro Tanaka, Sho Nishida, Takahiro Hasegawa, Takuya Sakamoto, Yuko Kawara, Kayoko Aizawa, Haruka Fujita, Ke Li, Naoya Sawaki, Koshiro Oda, Ryuichiro Futagoishi, Takahiro Tsusaka, Satomi Takahashi, Junpei Takano, Shinji Wakuta, Akira Yoshinari, Masataka Uehara, Shigeki Takada, Hayato Nagano, Kyoko Miwa, Izumi Aibara, Takuya Ojima, Kaoru Ebana, Satoru Ishikawa, Kuni Sueyoshi, Hiroshi Hasegawa, Tetsuro Mimura, Mari Mimura, Natsuko I. Kobayashi, Jun Furukawa, Daisuke Kobayashi, Toshiyasu Okouchi, Keitaro Tanoi, Toru Fujiwara",
+      "venue": "JOURNAL OF PLANT RESEARCH",
+      "url": "https://doi.org/10.1007/s10265-013-0616-9"
+    },
+    {
+      "type": "papers",
+      "year": "2014",
+      "title": "The effect of fertilization on cesium concentration of rice grown in a paddy field in Fukushima Prefecture in 2011 and 2012",
+      "authors": "Yoshihiro Ohmori, Masataka Kajikawa, Sho Nishida, Nobuhiro Tanaka, Natsuko I. Kobayashi, Keitaro Tanoi, Jun Furukawa, Toru Fujiwara",
+      "venue": "JOURNAL OF PLANT RESEARCH",
+      "url": "https://doi.org/10.1007/s10265-013-0618-7"
+    },
+    {
+      "type": "misc",
+      "year": "2014",
+      "title": "4-2-5 野生イネイントログレッション系統を用いた玄米中元素濃度に関する遺伝資源の探索(4-2 植物の微量栄養素,2014年度東京大会)",
+      "authors": "大森 良弘, 反田 直之, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.60.0_62_2"
+    },
+    {
+      "type": "misc",
+      "year": "2014",
+      "title": "イネのMn輸送に関わる変異体の解析",
+      "authors": "TANAKA NOBUHIRO, URAGUCHI SHINPEI, OHMORI YOSHIHIRO, SAITO AKIHIRO, KAJIKAWA MASATAKA, FUJIWARA TORU",
+      "venue": "日本植物生理学会年会要旨集",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2014",
+      "title": "4-1-23 リン酸により短時間で引き起こされる菌根抑制の細胞応答 : 菌根のリン抑制機構(4-1 植物の多量栄養素,2014年度東京大会)",
+      "authors": "小八重 善裕, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.60.0_54_2"
+    },
+    {
+      "type": "misc",
+      "year": "2014",
+      "title": "4-1-16 Oriza sativa(イネ)における低栄養感受性変異体HCA7の解析(4-1 植物の多量栄養素,2014年度東京大会)",
+      "authors": "吉永 良平, 大森 良弘, 藤原 徹",
+      "venue": "日本土壌肥料学会講演要旨集",
+      "url": "https://doi.org/10.20710/dohikouen.60.0_52_1"
+    },
+    {
+      "type": "books",
+      "year": "2014",
+      "title": "Journal of Plant Research 127 巻 1 号 JPR Symposium “Current status and future control of cesium concentration in plants and algae in Fukushima” 日本語抄訳集「福島における植物と藻類の放射性セシウム汚染: その現状と将来性について」福島水田におけるセシウム吸収のイネ品種間差",
+      "authors": "田中伸裕, 大森良弘, 藤原徹",
+      "venue": "",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "books",
+      "year": "2014",
+      "title": "Journal of Plant Research 127 巻 1 号 JPR Symposium “Current status and future control of cesium concentration in plants and algae in Fukushima” 日本語抄訳集「福島における植物と藻類の放射性セシウム汚染: その現状と将来性について」福島県の水田で栽培された水稲の放射性セシウム濃度に対する施肥の影響",
+      "authors": "大森良弘, 田中伸裕, 藤原徹",
+      "venue": "",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2014",
+      "title": "野生イネイントログレッション系統を用いた玄米中元素濃度に関する遺伝資源の探索",
+      "authors": "大森良弘, 反田直之, 藤原徹",
+      "venue": "日本土壌肥料学会 2014 年度関東大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2013",
+      "title": "ABNORMAL SHOOT IN YOUTH, a Homolog of Molybdate Transporter Gene, Regulates Early Shoot Development in Rice",
+      "authors": "Ken-Ichiro Hibara, Wataru Hosoki, Tsuneo Hakoyama, Yoshihiro Ohmori, Toru Fujiwara, Jun-Ichi Itoh, Yasuo Nagato",
+      "venue": "American Journal of Plant Sciences",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2013",
+      "title": "WUSCHEL-RELATED HOMEOBOX4 Is Involved in Meristem Maintenance and Is Negatively Regulated by the CLE Gene FCP1 in Rice",
+      "authors": "Yoshihiro Ohmori, Wakana Tanaka, Mikiko Kojima, Hitoshi Sakakibara, Hiro-Yuki Hirano",
+      "venue": "PLANT CELL",
+      "url": "https://doi.org/10.1105/tpc.112.103432"
+    },
+    {
+      "type": "presentations",
+      "year": "2013",
+      "title": "野生イネイントログレッション系統の玄米中元素濃度分析",
+      "authors": "大森良弘, 藤原徹",
+      "venue": "日本育種学会第 123 回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2013",
+      "title": "イネにおける栄養成長期メリステムの維持制御機構",
+      "authors": "大森 良弘, 田中 若奈, 小嶋 美紀子, 榊原 均, 平野 博之",
+      "venue": "日本育種学会第 123 回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2012",
+      "title": "ABERRANT SPIKELET AND PANICLE1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice",
+      "authors": "Akiko Yoshida, Yoshihiro Ohmori, Hidemi Kitano, Fumio Taguchi-Shiobara, Hiro-Yuki Hirano",
+      "venue": "PLANT JOURNAL",
+      "url": "https://doi.org/10.1111/j.1365-313X.2011.04872.x"
+    },
+    {
+      "type": "papers",
+      "year": "2012",
+      "title": "Formation of two florets within a single spikelet in the rice tongari-boushi1 mutant",
+      "authors": "Wakana Tanaka, Taiyo Toriba, Yoshihiro Ohmori, Hiro-Yuki Hirano",
+      "venue": "Plant Signaling and Behavior",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2012",
+      "title": "The YABBY Gene TONGARI-BOUSHI1 Is Involved in Lateral Organ Development and Maintenance of Meristem Organization in the Rice Spikelet",
+      "authors": "Wakana Tanaka, Taiyo Toriba, Yoshihiro Ohmori, Akiko Yoshida, Arata Kawai, Tomoko Mayama-Tsuchida, Hiroaki Ichikawa, Nobutaka Mitsuda, Masaru Ohme-Takagi, Hiro-Yuki Hirano",
+      "venue": "PLANT CELL",
+      "url": "https://doi.org/10.1105/tpc.111.094797"
+    },
+    {
+      "type": "misc",
+      "year": "2012",
+      "title": "イネ小穂の側生器官の発生とメリステムのオーガナイゼーションを制御するTONGARIBOUSHI1(TOB1)遺伝子の単離と機能解析",
+      "authors": "田中若奈, 鳥羽大陽, 大森良弘, 河合新, 吉田明希子, 槌田智子, 市川裕章, 光田展隆, 高木優, 平野博之",
+      "venue": "日本植物生理学会年会要旨集",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2012",
+      "title": "DEX 誘導系をもちいたイネ FON2-LIKE CLE PROTEIN1 (FCP1) の機能解析",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第 121 回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2011",
+      "title": "Developmental genetic analysis of bract suppression in rice.",
+      "authors": "Eriko Oshima, Yoshihiro Ohmori, Akiko Yoshida, Hiro-yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2011",
+      "title": "Analysis of the tongariboushi (tob) mutant defective in rice flower development and isolation of its causative gene.",
+      "authors": "Wakana Tanaka, Taiyo Toriba, Yoshihiro Ohmori, Arata Kawai, Akiko Yoshida, Hiro-yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2011",
+      "title": "Common and distinct mechanisms underlying the establishment of adaxial and abaxial polarity in stamen and leaf development",
+      "authors": "Taiyo Toriba, Yoshihiro Ohmori, Hiro-Yuki Hirano",
+      "venue": "Plant Signaling and Behavior",
+      "url": "https://doi.org/10.4161/psb.6.3.14494"
+    },
+    {
+      "type": "papers",
+      "year": "2011",
+      "title": "Genetic analysis of awn formation in rice",
+      "authors": "Toriba Taiyo, Ohmori Yoshihiro, Hirano Hiro-Yuki",
+      "venue": "Plant and Cell Physiology Supplement",
+      "url": "https://doi.org/10.14841/jspp.2011.0.0617.0"
+    },
+    {
+      "type": "papers",
+      "year": "2011",
+      "title": "Temporal and spatial regulation of DROOPING LEAF gene expression that promotes midrib formation in rice",
+      "authors": "Yoshihiro Ohmori, Taiyo Toriba, Hidemitsu Nakamura, Hiroaki Ichikawa, Hiro-Yuki Hirano",
+      "venue": "PLANT JOURNAL",
+      "url": "https://doi.org/10.1111/j.1365-313X.2010.04404.x"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "イネ小穂の発生が異常となったtongariboushi(tob)変異体の解析",
+      "authors": "田中若奈, 鳥羽大陽, 大森良弘, 河合新, 吉田明希子, 平野博之",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "イネの花の発生に関与するtongariboushi(tob)変異体の解析および原因遺伝子の単離",
+      "authors": "田中若奈, 鳥羽大陽, 大森良弘, 河合新, 吉田明希子, 平野博之",
+      "venue": "日本遺伝学会大会プログラム・予稿集",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "イネの苞葉伸長抑制に関する発生遺伝学的解析",
+      "authors": "大島枝里子, 大森良弘, 吉田明希子, 吉田明希子, 平野博之",
+      "venue": "日本遺伝学会大会プログラム・予稿集",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "リステム機能に多面的な異常を示すaberrant spikelet and panicle 1(asp1)変異体の解析と遺伝子単離",
+      "authors": "吉田明希子, 大森良弘, 北野英己, 田口(塩原)文緒, 平野博之",
+      "venue": "日本植物学会大会研究発表記録",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "イネの小穂に多面的な異常を生じるtongariboushi(tob)変異体の解析および原因遺伝子の単離",
+      "authors": "田中若奈, 鳥羽大陽, 大森良弘, 河合新, 吉田明希子, 光田展隆, 高木優, 槌田智子, 市川裕章, 平野博之",
+      "venue": "育種学研究",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2011",
+      "title": "ABERRANT SPIKELET AND PANICLE1(ASP1)遺伝子の機能とオーキシン作用",
+      "authors": "大森良弘, 吉田明希子, 北野英己, 田口(塩原)文緒, 平野博之",
+      "venue": "日本植物学会大会研究発表記録",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2011",
+      "title": "イネ twin eyes (twe) 変異体における小穂の発生学的解析",
+      "authors": "大森良弘, 大津和弘, 坂紀邦, 北野英己, 平野博之",
+      "venue": "日本育種学会第120回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2011",
+      "title": "ABERRANT APIKELET AND PANICLE1 (ASP1) 遺伝子の機能とオーキシン作用",
+      "authors": "大森良弘, 吉田明希子, 北野英己, 田口-塩原文緒, 平野博之",
+      "venue": "日本植物学会第75回大会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2011",
+      "title": "イネ種子に多面的表現型を示す twin eyes 変異体の発生学的解析",
+      "authors": "大森良弘, 大津和弘, 坂紀邦, 北野英己, 平野博之",
+      "venue": "日本育種学会第119回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2010",
+      "title": "Distinct Regulation of Adaxial-Abaxial Polarity in Anther Patterning in Rice",
+      "authors": "Taiyo Toriba, Takuya Suzaki, Takahiro Yamaguchi, Yoshihiro Ohmori, Hirokazu Tsukaya, Hiro-Yuki Hirano",
+      "venue": "PLANT CELL",
+      "url": "https://doi.org/10.1105/tpc.110.075291"
+    },
+    {
+      "type": "papers",
+      "year": "2010",
+      "title": "Conserved intron1 is likely to be involved in regulating expression of DROOPING LEAF genes in the grass family.",
+      "authors": "Wakana Tanaka, Akane Ohtsubo, Yoshihiro Ohmori, Hiro-Yuki Hirano",
+      "venue": "Rice Genetics Newsletter",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2010",
+      "title": "イネにおける茎頂分裂組織の負の制御因子 FON2-LIKE CLE PROTEIN1 (FCP1) の機能に関する研究",
+      "authors": "大森良弘, 寿崎拓哉, 平野博之",
+      "venue": "日本育種学会第118回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2010",
+      "title": "EXPRESSION ANALYSIS OF THE DROOPING LEAF (DL) GENE THAT PROMOTES MIDRIB FORMATION IN RICE AND ITS APPLICATION TO IMPROVEMENT OF PLANT ARCHITECTURE",
+      "authors": "Yoshihiro Ohmori, Hiro-Yuki Hirano",
+      "venue": "21st International Conference on Arabidopsis Research",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2009",
+      "title": "The spatial expression patterns of DROOPING LEAF orthologs suggest a conserved function in grasses",
+      "authors": "Motokazu Ishikawa, Yoshihiro Ohmori, Wakana Tanaka, Chizuru Hirabayashi, Koji Murai, Yasunari Ogihara, Takahiro Yamaguchi, Hiro-Yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://doi.org/10.1266/ggs.84.137"
+    },
+    {
+      "type": "presentations",
+      "year": "2009",
+      "title": "DROOPING LEAF (DL) 遺伝子の機能と葉の中肋形成",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第116回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2009",
+      "title": "DROOPING LEAF (DL) 遺伝子の発現制御とイネ中肋の増強",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第115回講演",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "papers",
+      "year": "2008",
+      "title": "A transposon, Ping, is integrated into intron 4 of the DROOPING LEAF gene of rice, weakly reducing its expression and causing a mild drooping leaf phenotype",
+      "authors": "Yoshihiro Ohmori, Mafumi Abiko, Akira Horibata, Hiro-Yuki Hirano",
+      "venue": "PLANT AND CELL PHYSIOLOGY",
+      "url": "https://doi.org/10.1093/pcp/pcn093"
+    },
+    {
+      "type": "papers",
+      "year": "2008",
+      "title": "Genome-wide expression profiling and identification of genes under the control of the DROOPING LEAF gene during midrib development in rice",
+      "authors": "Mafumi Abiko, Yoshihiro Ohmori, Hiro-Yuki Hirano",
+      "venue": "GENES & GENETIC SYSTEMS",
+      "url": "https://doi.org/10.1266/ggs.83.237"
+    },
+    {
+      "type": "presentations",
+      "year": "2008",
+      "title": "A mild drooping phenotype is caused by integration of the Ping transposon into intron4 of the DROOPING LEAF (DL) gene in rice",
+      "authors": "Yoshihiro Ohmori, Mafumi Abiko, Akira Horibata, Hiro-Yuki Hirano",
+      "venue": "The 6 th international symposium on rice functional genomics",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2008",
+      "title": "DROOPING LEAF (DL) 遺伝子の中肋における発現に必須なイントロン内配列の解析",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第113回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2007",
+      "title": "The origin and expression of the week allele of the DROOPING LEAF gene",
+      "authors": "Ohmori Y, Horibata A, Hirano H",
+      "venue": "Breeding Research",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2007",
+      "title": "DROOPING LEAF (DL) 遺伝子の弱い表現型を示す対立遺伝子の起源と発現制御に関する研究",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第112回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2007",
+      "title": "DROOPING LEAF (DL) 遺伝子の中肋特異的発現を制御する因子の探索",
+      "authors": "大森良弘, 平野博之",
+      "venue": "日本育種学会第111回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2006",
+      "title": "DROOPING LEAF (DL) 遺伝子イントロンの保存性と多様性",
+      "authors": "大森良弘, 大坪あかね, 石川元一, 鳥羽大陽, 中村英光, 市川裕章, 平野博之",
+      "venue": "日本育種学会第109回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2005",
+      "title": "心臓脈管形成に異常を生じるメダカ突然変異体の単離とその形態学的解析",
+      "authors": "大森良弘, 飯島典生, 横山尚彦",
+      "venue": "第110回日本解剖学会総会・全国学術集会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "presentations",
+      "year": "2004",
+      "title": "イネの植物体で観察された Rurm1 座以外のゲノムサイトにおけるトランスポゾン mPing の転移",
+      "authors": "大森良弘, 松井和幸, 堀端章, 奥本裕, 中崎鉄也, 谷坂隆俊",
+      "venue": "日本育種学会第105回講演会",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    },
+    {
+      "type": "misc",
+      "year": "2002",
+      "title": "Sequence polymorphism at the Rurm1 locus among slg homozygous lines caused by the transposon 'Sairyu' in rice (Oryza sativa L.)",
+      "authors": "HORIBATA A, OHMORI Y, NAKAZAKI T, OKUMOTO Y, TANISAKA T, YAMAGATA H",
+      "venue": "育種学研究 = Breeding research",
+      "url": "https://researchmap.jp/Y_Ohmori"
+    }
+  ]
+}
