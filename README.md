@@ -27,10 +27,10 @@ Researchmap: https://researchmap.jp/Y_Ohmori
 ## Research Tools / 研究ツール
 
 - [Rice QTL / GWAS Genome Browser](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser.html)
-- GCIC — Gene-centered Identification of Cis-regulatory Islands
+- [GCIC — Gene-centered Identification of Cis-regulatory Islands](https://github.com/5ww2cw2jb7-afk/gcic_dockerized_package)
 - [CSV Data Visualization App (R / Shiny)](https://yoshihiro-ohmori.shinyapps.io/session4/)
-  - R5年度データサイエンス講習会の課題として開発したWebアプリケーションです。
-  - CSVファイルを読み込み、ヒストグラム、散布図、箱ひげ図を作成できます。
+  - R5年度データサイエンス講習会の課題として開発したWebアプリケーション。
+  - CSVファイルからヒストグラム、散布図、箱ひげ図を作成できます。
   - [JBIC データサイエンス講習会](https://www.jbic.or.jp/stream)
   
 ## Website Management / サイト管理
