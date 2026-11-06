@@ -27,6 +27,9 @@ Researchmap: https://researchmap.jp/Y_Ohmori
 ## Research Tools / 研究ツール
 
 - [Rice QTL / GWAS Genome Browser](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser.html)
+  - [データの出典・引用・利用条件 / Data sources, citations & usage](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html)
+  - Data sources include GWAS Atlas, Q-TARO, EURoot Rice, and RAP-DB / IRGSP-1.0; their respective licensing and attribution requirements must be reviewed before redistribution.
+  - GWAS Atlasの学術・商用利用条件や第三者データの再配布許諾に注意してください。Q-TAROのアセンブリは未確認、EURootの一部座標は表示用の仮換算であり、異なるデータ源の座標一致は検証済みの同一QTLを意味しません。
 - [GCIC — Gene-centered Identification of Cis-regulatory Islands](https://github.com/5ww2cw2jb7-afk/gcic_dockerized_package)
 - [CSV Data Visualization App (R / Shiny)](https://yoshihiro-ohmori.shinyapps.io/session4/)
   - R5年度データサイエンス講習会の課題として開発したWebアプリケーション。
@@ -62,6 +65,21 @@ For research use, please cite the relevant original datasets/publications as wel
 - 再配布、商用利用、他のサービスへの組込みを行う場合は、**各原データの最新の利用条件を確認**し、出典を明記してください。元データ全件の再配布に関する権利確認が完了したと主張するものではありません。
 
 For methods, caveats, and source links, see [Rice Signature Explorer — Data Sources & Citations](rice_signature_sources.html). The reference correlations describe expression-pattern similarity, not evidence of causation. / 解析方法・注意事項・出典リンクは[出典と引用のページ](rice_signature_sources.html)をご参照ください。相関は発現変動パターンの類似性であり、因果関係を示すものではありません。
+
+## Rice QTL / GWAS Browser — Sources and Rights / 出典・権利・利用条件
+
+The Rice QTL / GWAS Genome Browser combines data associated with **GWAS Atlas**, **Q-TARO**, **EURoot Rice**, and **RAP-DB / IRGSP-1.0**. The original datasets, publications, and database services may have **different rights, citation requirements, and reuse/redistribution conditions**. The publication of this website does not grant additional rights in third-party data. In particular, attribution alone does not establish permission to redistribute datasets embedded in the browser. For details, see [Data sources, citations & usage](rice_browser_sources.html).
+
+Rice QTL / GWAS Genome Browserでは、**GWAS Atlas、Q-TARO、EURoot Rice、RAP-DB / IRGSP-1.0** に関連するデータを扱います。各提供元のデータ・論文・サービスは、**権利、引用方法、二次利用・再配布条件がそれぞれ異なる**場合があります。研究室サイトでの公開によって第三者データの権利が変更されることはありません。また、**出典を表示することだけでは、ブラウザに組み込まれたデータの再配布許可を意味しません**。利用・再配布の前に、取得元の最新の条件と必要な許諾を確認してください。
+
+**Scientific limitations / 科学的な制約:** The GWAS SNP coordinates have not all been independently sequence-validated; the Q-TARO genome assembly is unconfirmed; certain EURoot coordinates are provisional, display-only conversions rather than validated liftover. Cross-source positional overlap must not be interpreted as evidence of an identical QTL without further verification.
+
+**科学的注意：** GWAS SNPの全件について配列レベルの座標検証は完了していません。Q-TAROの参照アセンブリは未確認です。EURootの一部座標は表示用の暫定換算で、検証済みのリフトオーバーではありません。異なるデータ源間の位置の重なりだけを同一QTLの証拠としないでください。
+
+- [GWAS Atlas](https://ngdc.cncb.ac.cn/gwas/)
+- [Q-TARO archive](https://dbarchive.biosciencedbc.jp/jp/qtaro/desc.html) / [license](https://dbarchive.biosciencedbc.jp/jp/qtaro/lic.html)
+- [EURoot Rice dataset](https://doi.org/10.18167/DVN1/XXZCXM)
+- [Browser source/citation and usage details](rice_browser_sources.html)
 
 ## Website Management / サイト管理
 

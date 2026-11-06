@@ -211,6 +211,10 @@ window.OHMORI_EDITABLE = {
       "ja": "ブラウザを開く ↗",
       "en": "Open browser ↗"
     },
+    "riceBrowserSources": {
+      "ja": "データの出典・引用・利用条件 ↗",
+      "en": "Data sources, citations & terms ↗"
+    },
     "text_028": {
       "ja": "GCIC — Gene-centered Identification of Cis-regulatory Islands",
       "en": "GCIC — Gene-centered Identification of Cis-regulatory Islands"
