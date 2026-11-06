@@ -223,6 +223,22 @@ window.OHMORI_EDITABLE = {
       "ja": "GCIC（GitHub）を開く ↗",
       "en": "View GCIC on GitHub ↗"
     },
+    "riceSignatureTitle": {
+      "ja": "Rice Signature Explorer v1.3",
+      "en": "Rice Signature Explorer v1.3"
+    },
+    "riceSignatureText": {
+      "ja": "イネの遺伝子IDとlog2FCから、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性を検索します。Spearman相関、モジュール・時系列解析、ヒートマップ、CSV出力に対応しています。",
+      "en": "Compare rice gene-level log2 fold changes against 382 RED 2.0 and RiceXPro reference signatures. Explore Spearman correlations, modules, time-series patterns, heatmaps, and CSV exports."
+    },
+    "riceSignatureSources": {
+      "ja": "データの出典・引用・利用条件 ↗",
+      "en": "Data sources, citations & terms ↗"
+    },
+    "riceSignatureButton": {
+      "ja": "解析ツールを開く ↗",
+      "en": "Open explorer ↗"
+    },
     "toolNote": {
       "ja": "※ 添付された既存HTMLをそのまま収録しています。公開前にデータの出典・ライセンス・注意書きを確認してください。",
       "en": "Note: The original HTML was included without modification. Check data sources, licenses, and scientific caveats before public release."
