@@ -235,6 +235,14 @@ window.OHMORI_EDITABLE = {
       "ja": "イネの遺伝子IDとlog2FCを入力し、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性をSpearman順位相関で検索します。入力データには任意でモジュール名（module）や時間情報（time_h）を付与できます。複数時点を入力した場合は時点別の相関をヒートマップで比較でき、CSV出力にも対応しています。",
       "en": "Compare user-provided rice gene IDs and log2 fold changes against 382 reference signatures from RED 2.0 and RiceXPro using Spearman rank correlation. Input data may optionally include module labels (module) and time information (time_h). For multiple input time points, correlations can be compared in a heatmap. CSV export is also supported."
     },
+    "riceSignatureCategories": {
+      "ja": "RED 2.0の328比較の主分類（各比較は1分類）：遺伝子型・遺伝子操作（89）、栄養・水分複合（58）、非生物的ストレス（57）、化学物質・複合処理（34）、ホルモン・シグナル（31）、生物的応答・プライミング（16）、光・日長（8）、その他・未分類（35）。分類は元のtreatment_classに基づく便宜的なもので、各処理の網羅的な生物学的判定ではありません。RiceXPro由来54比較は別集計です。",
+      "en": "RED 2.0 reference comparisons by mutually exclusive primary category (328 total): genotype/genetic perturbation (89), nutrition/water factorial (58), abiotic stress (57), chemicals/combined treatments (34), hormones/signaling (31), biotic response/priming (16), light/photoperiod (8), and other/unspecified (35). These groupings are based on the original treatment_class labels, not an exhaustive biological annotation; the 54 RiceXPro comparisons are counted separately."
+    },
+    "riceSignatureClassificationLink": {
+      "ja": "RED 2.0の328比較：処理分類・件数・詳細一覧 ↗",
+      "en": "RED 2.0: 328 comparisons by treatment category ↗"
+    },
     "riceSignatureSources": {
       "ja": "データの出典・引用・利用条件 ↗",
       "en": "Data sources, citations & terms ↗"
