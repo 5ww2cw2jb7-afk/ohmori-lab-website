@@ -62,8 +62,6 @@ Rice Signature Explorer v1.3は、公開イネ遺伝子発現データを基に�
 **分類上の注意 / Classification caveat:** 上記は既存メタデータラベルの集計であり、各比較について論文・実験条件を全面的に再査読して得た生物学的な排他分類ではありません。例えば「Other / unspecified」にBLなどホルモン関連処理が含まれる可能性があり、遺伝子型×ストレスなど複合実験も主分類を1つだけ割り当てています。**したがって「ホルモン・シグナル（31比較）」は、RED 2.0に含まれるホルモン関連実験の完全な件数を意味しません。** / These categories reflect the original metadata labels; they are not a fully re-curated, biologically exhaustive classification. A hormone-related experiment may appear in an original "Other / unspecified" class, and multi-factor experiments have one primary category only.
 
 - [**RED 2.0全328比較：分類別の検索可能なHTML一覧 / Searchable 328-comparison list**](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_RED2_328_classification.html)
-- [**全328比較の分類・処理・対照・BioProject・QC付きCSV / Detailed 328-comparison CSV**](https://github.com/5ww2cw2jb7-afk/ohmori-lab-website/blob/main/rice_signature_RED2_328_treatment_classification.csv)
-- [**分類件数と元の29ラベルの対応表 / Category summary CSV**](https://github.com/5ww2cw2jb7-afk/ohmori-lab-website/blob/main/rice_signature_RED2_328_category_summary.csv)
 
 ### Original sources and citations / 原データと引用
 
