@@ -200,12 +200,12 @@ window.OHMORI_EDITABLE = {
       "en": "Research Tools"
     },
     "text_027": {
-      "ja": "Rice QTL / GWAS Genome Browser",
-      "en": "Rice QTL / GWAS Genome Browser"
+      "ja": "Rice QTL / GWAS Genome Browser V2",
+      "en": "Rice QTL / GWAS Genome Browser V2"
     },
     "toolText": {
-      "ja": "染色体領域、QTL・GWAS情報、RAP遺伝子を探索するブラウザ（試作版）。座標精度とデータの利用条件にご注意ください。",
-      "en": "A prototype browser for exploring chromosome regions, QTL and GWAS information, and RAP genes. Please note the limitations on coordinate accuracy and data use."
+      "ja": "イネのQTL・GWAS、RAP遺伝子に加え、PlantRegMap由来の進化的保存領域（CE）を表示するゲノムブラウザV2。CEの371,544区間（Chr1–12）を独立トラックとして表示し、広域では密度表示、拡大時は区間を確認できます。表示範囲のCE一覧・CSV出力に対応しています。CEの座標系一致と機能は未検証です。",
+      "en": "Genome Browser V2 displaying rice QTL/GWAS, RAP genes and PlantRegMap evolutionarily conserved elements (CE). A separate CE track covers 371,544 elements on Chr1–12, with density at broad scales, intervals when zoomed in, a region table and CSV export. CE assembly compatibility and regulatory function are not independently verified."
     },
     "toolButton": {
       "ja": "ブラウザを開く ↗",
@@ -234,14 +234,6 @@ window.OHMORI_EDITABLE = {
     "riceSignatureText": {
       "ja": "イネの遺伝子IDとlog2FCを入力し、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性をSpearman順位相関で検索します。入力データには任意でモジュール名（module）や時間情報（time_h）を付与できます。複数時点を入力した場合は時点別の相関をヒートマップで比較でき、CSV出力にも対応しています。",
       "en": "Compare user-provided rice gene IDs and log2 fold changes against 382 reference signatures from RED 2.0 and RiceXPro using Spearman rank correlation. Input data may optionally include module labels (module) and time information (time_h). For multiple input time points, correlations can be compared in a heatmap. CSV export is also supported."
-    },
-    "riceSignatureCategories": {
-      "ja": "RED 2.0の328比較の主分類（各比較は1分類）：遺伝子型・遺伝子操作（89）、栄養・水分複合（58）、非生物的ストレス（57）、化学物質・複合処理（34）、ホルモン・シグナル（31）、生物的応答・プライミング（16）、光・日長（8）、その他・未分類（35）。分類は元のtreatment_classに基づく便宜的なもので、各処理の網羅的な生物学的判定ではありません。RiceXPro由来54比較はすべて植物ホルモン処理で、ABA（9）、オーキシン（9）、サイトカイニン（9）、ジベレリン（9）、ブラシノステロイド（9）、ジャスモン酸（9）の6種類です（RED 2.0とは別集計）。",
-      "en": "RED 2.0 reference comparisons by mutually exclusive primary category (328 total): genotype/genetic perturbation (89), nutrition/water factorial (58), abiotic stress (57), chemicals/combined treatments (34), hormones/signaling (31), biotic response/priming (16), light/photoperiod (8), and other/unspecified (35). These groupings are based on the original treatment_class labels, not an exhaustive biological annotation; the 54 additional RiceXPro comparisons are all plant hormone treatments: ABA (9), auxin (9), cytokinin (9), gibberellin (9), brassinosteroid (9), and jasmonic acid (9)."
-    },
-    "riceSignatureClassificationLink": {
-      "ja": "RED 2.0の328比較：処理分類・件数・詳細一覧 ↗",
-      "en": "RED 2.0: 328 comparisons by treatment category ↗"
     },
     "riceSignatureSources": {
       "ja": "データの出典・引用・利用条件 ↗",
