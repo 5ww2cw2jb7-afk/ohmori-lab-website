@@ -43,7 +43,7 @@ Researchmap: https://researchmap.jp/Y_Ohmori
   - Reference datasets: [RED 2.0](https://ngdc.cncb.ac.cn/red/) and [RiceXPro](https://ricexpro.dna.affrc.go.jp/); GEO [GSE39429](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39429). Please cite the original studies and review their respective data terms before reuse.
   - Reference gene set: 24,061 AGIS↔RAP-DB one-to-one mapped genes; database release v1.1. The similarity tool is v1.3.
 
-## Data Sources, Attribution and Usage / データの出典・権利・利用条件
+## Rice Signature Explorer — Data Sources, Citations and Usage / データの出典・引用・利用条件
 
 Rice Signature Explorer v1.3 uses a processed reference signature dataset (database v1.1) derived from publicly available rice gene-expression resources. The integrated reference includes **328 RED 2.0 comparisons** and **54 RiceXPro comparisons (GEO: GSE39429)**, aligned to **24,061 one-to-one AGIS–RAP-DB gene correspondences**. The Ohmori Lab processing includes comparison curation, log2 fold-change calculation, quality-control annotations, gene-ID mapping, and integration. These derived analyses should be distinguished from the original datasets and publications.
 
@@ -64,11 +64,11 @@ For research use, please cite the relevant original datasets/publications as wel
 - Before redistribution, commercial reuse, or incorporation of the derived reference matrix into another product, **check the current source-specific conditions** and provide attribution. The full scope of redistribution rights for all upstream data has **not been independently confirmed here**.
 - 再配布、商用利用、他のサービスへの組込みを行う場合は、**各原データの最新の利用条件を確認**し、出典を明記してください。元データ全件の再配布に関する権利確認が完了したと主張するものではありません。
 
-For methods, caveats, and source links, see [Rice Signature Explorer — Data Sources & Citations](rice_signature_sources.html). The reference correlations describe expression-pattern similarity, not evidence of causation. / 解析方法・注意事項・出典リンクは[出典と引用のページ](rice_signature_sources.html)をご参照ください。相関は発現変動パターンの類似性であり、因果関係を示すものではありません。
+For methods, caveats, and source links, see [Rice Signature Explorer — Data Sources & Citations](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html). The reference correlations describe expression-pattern similarity, not evidence of causation. / 解析方法・注意事項・出典リンクは[出典と引用のページ](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html)をご参照ください。相関は発現変動パターンの類似性であり、因果関係を示すものではありません。
 
-## Rice QTL / GWAS Browser — Sources and Rights / 出典・権利・利用条件
+## Rice QTL / GWAS Genome Browser — Data Sources, Citations and Usage / データの出典・引用・利用条件
 
-The Rice QTL / GWAS Genome Browser combines data associated with **GWAS Atlas**, **Q-TARO**, **EURoot Rice**, and **RAP-DB / IRGSP-1.0**. The original datasets, publications, and database services may have **different rights, citation requirements, and reuse/redistribution conditions**. The publication of this website does not grant additional rights in third-party data. In particular, attribution alone does not establish permission to redistribute datasets embedded in the browser. For details, see [Data sources, citations & usage](rice_browser_sources.html).
+The Rice QTL / GWAS Genome Browser combines data associated with **GWAS Atlas**, **Q-TARO**, **EURoot Rice**, and **RAP-DB / IRGSP-1.0**. The original datasets, publications, and database services may have **different rights, citation requirements, and reuse/redistribution conditions**. The publication of this website does not grant additional rights in third-party data. In particular, attribution alone does not establish permission to redistribute datasets embedded in the browser. For details, see [Data sources, citations & usage](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html).
 
 Rice QTL / GWAS Genome Browserでは、**GWAS Atlas、Q-TARO、EURoot Rice、RAP-DB / IRGSP-1.0** に関連するデータを扱います。各提供元のデータ・論文・サービスは、**権利、引用方法、二次利用・再配布条件がそれぞれ異なる**場合があります。研究室サイトでの公開によって第三者データの権利が変更されることはありません。また、**出典を表示することだけでは、ブラウザに組み込まれたデータの再配布許可を意味しません**。利用・再配布の前に、取得元の最新の条件と必要な許諾を確認してください。
 
@@ -79,7 +79,7 @@ Rice QTL / GWAS Genome Browserでは、**GWAS Atlas、Q-TARO、EURoot Rice、RAP
 - [GWAS Atlas](https://ngdc.cncb.ac.cn/gwas/)
 - [Q-TARO archive](https://dbarchive.biosciencedbc.jp/jp/qtaro/desc.html) / [license](https://dbarchive.biosciencedbc.jp/jp/qtaro/lic.html)
 - [EURoot Rice dataset](https://doi.org/10.18167/DVN1/XXZCXM)
-- [Browser source/citation and usage details](rice_browser_sources.html)
+- [Browser source/citation and usage details](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html)
 
 ## Website Management / サイト管理
 
