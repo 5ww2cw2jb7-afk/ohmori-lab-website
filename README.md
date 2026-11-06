@@ -26,10 +26,14 @@ Researchmap: https://researchmap.jp/Y_Ohmori
 
 ## Research Tools / 研究ツール
 
-- [Rice QTL / GWAS Genome Browser](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser.html)
-  - [データの出典・引用・利用条件 / Data sources, citations & usage](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html)
-  - Data sources include GWAS Atlas, Q-TARO, EURoot Rice, and RAP-DB / IRGSP-1.0; their respective licensing and attribution requirements must be reviewed before redistribution.
-  - GWAS Atlasの学術・商用利用条件や第三者データの再配布許諾に注意してください。Q-TAROのアセンブリは未確認、EURootの一部座標は表示用の仮換算であり、異なるデータ源の座標一致は検証済みの同一QTLを意味しません。
+- [Rice QTL / GWAS Genome Browser V2](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2.html)
+  - **新機能 / New:** PlantRegMap由来の進化的保存領域（CE）を独立トラックに追加。Chr1–Chr12にある**371,544区間**を対象に、表示切替、拡大時の個別区間表示、広域での密度表示、区間一覧、CSV出力に対応します。元の**372,065区間**のうちChrSy・ChrUnの**521区間**はブラウザには表示せず、再現用の原データに保持しています。
+  - **CE track:** 371,544 evolutionarily conserved intervals on chromosomes 1–12 from PlantRegMap; toggle, interval/density visualization, region listing and CSV export. A further 521 ChrSy/ChrUn intervals are preserved only in the reproducibility data (372,065 total).
+  - [V2：データの出典・引用・利用条件 / V2 sources, citations & usage](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2_sources.html)
+  - **重要 / Important:** CEの座標がIRGSP-1.0と完全に一致することは配列照合では未検証です。保存配列はTF結合、cis制御機能、因果変異を直接示しません。CEデータの再配布条件も提供元への確認が必要です。
+  - **Important:** CE genome-assembly compatibility with IRGSP-1.0 has not been sequence-validated. Conservation alone does not establish regulatory function or causality; verify source-specific redistribution terms before public deployment.
+  - [従来版（v3.1系） / Previous browser](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser.html) · [従来版の出典 / Previous sources](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html)
+  - 既存のGWAS Atlas、Q-TARO、EURoot Rice、RAP-DB / IRGSP-1.0のデータと座標上の注意点はV2にも引き継がれています。
 - [GCIC — Gene-centered Identification of Cis-regulatory Islands](https://github.com/5ww2cw2jb7-afk/gcic_dockerized_package)
 - [CSV Data Visualization App (R / Shiny)](https://yoshihiro-ohmori.shinyapps.io/session4/)
   - R5年度データサイエンス講習会の課題として開発したWebアプリケーション。
@@ -82,7 +86,27 @@ For research use, please cite the relevant original datasets/publications as wel
 
 For methods, caveats, and source links, see [Rice Signature Explorer — Data Sources & Citations](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html). The reference correlations describe expression-pattern similarity, not evidence of causation. / 解析方法・注意事項・出典リンクは[出典と引用のページ](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html)をご参照ください。相関は発現変動パターンの類似性であり、因果関係を示すものではありません。
 
-## Rice QTL / GWAS Genome Browser — Data Sources, Citations and Usage / データの出典・引用・利用条件
+## Rice QTL / GWAS Genome Browser V2 — Data Sources, Citations and Usage / データの出典・引用・利用条件
+
+### V2: Evolutionarily conserved elements / V2で追加した進化的保存領域
+
+**日本語：** V2は、従来のQTL・GWAS・RAP遺伝子ブラウザに、PlantRegMap由来の**進化的保存領域（CE）**トラックを追加しました。提供された `CE_Osj.gtf` の `phastCons_predicted` 区間は**全372,065区間**で、このうち**Chr1–Chr12の371,544区間**をブラウザに表示します。**ChrSy・ChrUnの521区間**はブラウザでは非表示ですが、再現用の原データとして保持しています。CE表示のON/OFF、1 Mb以下の範囲における個々の区間表示、広域表示時の密度表示、表示範囲の区間一覧とCSV出力を利用できます。
+
+**English:** V2 adds an independent PlantRegMap **evolutionarily conserved element (CE)** track to the existing QTL/GWAS and RAP gene browser. The supplied `CE_Osj.gtf` contains **372,065** `phastCons_predicted` intervals. The browser displays **371,544** intervals on chromosomes 1–12; the remaining **521** intervals on ChrSy/ChrUn are retained in the reproducibility dataset but not visualized. Users can toggle the track, view individual intervals at scales up to 1 Mb or density at broader scales, inspect regional intervals, and export matching intervals as CSV.
+
+**出典 / Citation:** Tian F., Yang D.-C., Meng Y.-Q., Jin J. & Gao G. (2020), *PlantRegMap: charting functional regulatory maps in plants*, *Nucleic Acids Research* 48(D1):D1104–D1113. [DOI: 10.1093/nar/gkz1020](https://doi.org/10.1093/nar/gkz1020); [PlantRegMap cis-Map](https://plantregmap.gao-lab.org/cis-map.php).
+
+**科学的制約 / Scientific limitations:** CEの区間がブラウザのIRGSP-1.0座標系と同一であることは、**配列レベルでは独立検証できていません**。染色体長の範囲内に収まることは確認していますが、座標互換性や正しいリフトオーバーの証明にはなりません。CEと遺伝子・SNP・QTLの位置的重複は暫定的に扱ってください。**進化的保存はTF結合、エンハンサー活性、cis制御機能、因果変異を直接証明しません。** GTF第6列の数値は元のスコアとして保持し、保存確率とは断定していません。 / Assembly identity with IRGSP-1.0 has **not** been independently verified by sequence alignment; bounds checks are insufficient. Positional overlaps are provisional. Conservation does not by itself establish TF binding, enhancer activity, regulatory function, or causality. The original sixth-column GTF score is retained without claiming it represents a calibrated probability.
+
+**利用条件 / Rights and redistribution:** PlantRegMap論文のオープンアクセスライセンスと、CE注釈GTF・派生JavaScriptの再配布許諾は必ずしも同じではありません。**CEデータの公開再配布権は確認完了していません。** GitHub Pages等でCEデータを公開する前に、PlantRegMap提供元の最新条件を確認し、必要に応じて許諾を取得してください。 / Publication licensing does not automatically confer permission to redistribute the original GTF or derived JavaScript. Verify dataset-specific terms and obtain any required permissions before public distribution.
+
+**再現性 / Reproducibility:** V2の再現可能フルパックは、元のv3.1データ・ブラウザ、`CE_Osj.gtf`、標準Pythonのみで動作する `build_v2.py`、ブラウザテンプレート、全区間を保持したCSV、検証JSON、公開用ファイルを収録しています。フルパックを展開後、フォルダ内で `python3 build_v2.py` を実行することでV2表示データとHTMLを再生成できます。実画面での最終操作確認は公開前に行ってください。 / The reproducible full pack contains the original v3.1 inputs, source GTF, `build_v2.py`, templates, full-interval CSV, validation metadata and deployable files. Run `python3 build_v2.py` from the extracted pack to rebuild the V2 outputs. Browser-level visual checks remain necessary.
+
+- [V2専用の出典・注意事項ページ / V2 sources and caveats](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2_sources.html)
+- [V2ブラウザを開く / Open browser V2](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2.html)
+- [従来版のブラウザ / Previous browser](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser.html)
+
+### Existing QTL/GWAS and gene data / 従来データの出典と制約
 
 The Rice QTL / GWAS Genome Browser combines data associated with **GWAS Atlas**, **Q-TARO**, **EURoot Rice**, and **RAP-DB / IRGSP-1.0**. The original datasets, publications, and database services may have **different rights, citation requirements, and reuse/redistribution conditions**. The publication of this website does not grant additional rights in third-party data. In particular, attribution alone does not establish permission to redistribute datasets embedded in the browser. For details, see [Data sources, citations & usage](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_sources.html).
 
