@@ -45,9 +45,25 @@ Researchmap: https://researchmap.jp/Y_Ohmori
 
 ## Rice Signature Explorer — Data Sources, Citations and Usage / データの出典・引用・利用条件
 
-Rice Signature Explorer v1.3 uses a processed reference signature dataset (database v1.1) derived from publicly available rice gene-expression resources. The integrated reference includes **328 RED 2.0 comparisons** and **54 RiceXPro comparisons (GEO: GSE39429)**, aligned to **24,061 one-to-one AGIS–RAP-DB gene correspondences**. The Ohmori Lab processing includes comparison curation, log2 fold-change calculation, quality-control annotations, gene-ID mapping, and integration. These derived analyses should be distinguished from the original datasets and publications.
+Rice Signature Explorer v1.3 uses a processed reference signature dataset (database v1.1) derived from publicly available rice gene-expression resources. It contains **328 RED 2.0 comparisons across 89 BioProjects** and **54 RiceXPro hormone-treatment comparisons (GEO: GSE39429)**, aligned to **24,061 one-to-one AGIS–RAP-DB gene correspondences**. RED 2.0 includes genotype/genetic perturbations, nutrition/water conditions, abiotic stress, chemical treatments, hormone/signaling conditions, biotic responses, light/photoperiod, and other experiments—not only plant hormone treatments. The Ohmori Lab processing includes comparison curation, log2 fold-change calculation, quality-control annotations, gene-ID mapping, and integration. These derived analyses are distinct from the original datasets and publications.
 
-Rice Signature Explorer v1.3は、公開されているイネ遺伝子発現データから整備した参照シグニチャーデータセット（データベースv1.1）を使用しています。**RED 2.0由来328比較**と**RiceXPro（GEO: GSE39429）由来54比較**を、**AGIS–RAP-DBの1対1対応24,061遺伝子**で統合しています。比較条件の整理、log2FC計算、QC注記、遺伝子ID対応付け、データ統合は本ツールのための派生的な処理であり、元データや原著論文そのものとは区別されます。
+Rice Signature Explorer v1.3は、公開イネ遺伝子発現データを基に整備した参照シグニチャーデータセット（データベースv1.1）を使用しています。**RED 2.0由来328比較（89 BioProjects）**と**RiceXPro（GEO: GSE39429）のホルモン処理由来54比較**を、**AGIS–RAP-DBの1対1対応24,061遺伝子**で統合しています。RED 2.0由来の比較はホルモン処理だけでなく、遺伝子型・遺伝子操作、栄養・水分条件、非生物的ストレス、化学物質、生物的応答、光条件など多様です。比較条件の整理、log2FC計算、QC注記、遺伝子ID対応付け、データ統合は本ツール向けの派生的な処理であり、元データや原著論文そのものとは区別されます。
+
+### Reference comparison categories / 収録比較の主分類
+
+**RED 2.0由来328比較**は、元の比較計画に付与されていた29種類の `treatment_class` を基に、次の8主分類に集約しました（各比較を一度だけ計上）：**遺伝子型・遺伝子操作（89比較）、栄養・水分条件（複合条件含む）（58比較）、非生物的ストレス（57比較）、化学物質・複合処理（34比較）、ホルモン・シグナル（31比較）、生物的応答・プライミング（16比較）、光・日長（8比較）、その他・未分類（35比較）**。**合計328比較**です。
+
+**RED 2.0: 328 reference comparisons** are assigned to eight non-overlapping *primary metadata categories*, consolidated from 29 existing `treatment_class` labels (one category per comparison): Genotype & genetic perturbation (89), Nutrition & water factorial (58), Abiotic stress (57), Chemicals & combined treatments (34), Hormones & signaling (31), Biotic response & priming (16), Light & photoperiod (8), Other & unspecified (35). **Total: 328.**
+
+**RiceXProの54比較**は、この328比較とは別で、6種類の植物ホルモン（ABA、オーキシン、サイトカイニン、ジベレリン、ブラシノステロイド、ジャスモン酸）の処理比較が**各9比較**、合計54比較です。
+
+**RiceXPro's 54 additional comparisons** are hormone-treatment comparisons: ABA (9), auxin (9), cytokinin (9), gibberellin (9), brassinosteroid (9), and jasmonic acid (9).
+
+**分類上の注意 / Classification caveat:** 上記は既存メタデータラベルの集計であり、各比較について論文・実験条件を全面的に再査読して得た生物学的な排他分類ではありません。例えば「Other / unspecified」にBLなどホルモン関連処理が含まれる可能性があり、遺伝子型×ストレスなど複合実験も主分類を1つだけ割り当てています。**したがって「ホルモン・シグナル（31比較）」は、RED 2.0に含まれるホルモン関連実験の完全な件数を意味しません。** / These categories reflect the original metadata labels; they are not a fully re-curated, biologically exhaustive classification. A hormone-related experiment may appear in an original "Other / unspecified" class, and multi-factor experiments have one primary category only.
+
+- [**RED 2.0全328比較：分類別の検索可能なHTML一覧 / Searchable 328-comparison list**](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_RED2_328_classification.html)
+- [**全328比較の分類・処理・対照・BioProject・QC付きCSV / Detailed 328-comparison CSV**](https://github.com/5ww2cw2jb7-afk/ohmori-lab-website/blob/main/rice_signature_RED2_328_treatment_classification.csv)
+- [**分類件数と元の29ラベルの対応表 / Category summary CSV**](https://github.com/5ww2cw2jb7-afk/ohmori-lab-website/blob/main/rice_signature_RED2_328_category_summary.csv)
 
 ### Original sources and citations / 原データと引用
 
