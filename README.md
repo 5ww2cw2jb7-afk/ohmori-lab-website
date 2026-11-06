@@ -37,8 +37,8 @@ Researchmap: https://researchmap.jp/Y_Ohmori
   - [JBIC データサイエンス講習会](https://www.jbic.or.jp/stream)
   
 - [Rice Signature Explorer v1.3](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_explorer.html)
-  - イネの遺伝子IDとlog2FCを入力し、RED 2.0（328比較）とRiceXPro（54比較）の計382シグニチャーとの類似性をSpearman順位相関で検索するオフライン対応のブラウザツールです。時系列・モジュール解析、ヒートマップ、CSV出力を利用できます。
-  - Enter rice gene IDs and log2 fold changes to search 382 reference signatures using Spearman correlation. Supports module/time-series analysis, heatmaps, and CSV export.
+  - イネの遺伝子IDとlog2FCを入力し、RED 2.0（328比較）とRiceXPro（54比較）の計382シグニチャーとの類似性をSpearman順位相関で検索するオフライン対応のブラウザツールです。入力データには任意でモジュール名（`module`）や時間情報（`time_h`）を付与できます。複数時点の入力では時点別の相関をヒートマップで比較でき、CSV出力にも対応しています。
+  - Enter rice gene IDs and log2 fold changes to compare against 382 reference signatures from RED 2.0 (328 comparisons) and RiceXPro (54 comparisons) using Spearman rank correlation. Input data may optionally include module labels (`module`) and time information (`time_h`). For multiple input time points, correlations can be compared in a heatmap. CSV export is also supported.
   - [データの出典・引用・利用条件 / Data sources & citations](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html)
   - Reference datasets: [RED 2.0](https://ngdc.cncb.ac.cn/red/) and [RiceXPro](https://ricexpro.dna.affrc.go.jp/); GEO [GSE39429](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39429). Please cite the original studies and review their respective data terms before reuse.
   - Reference gene set: 24,061 AGIS↔RAP-DB one-to-one mapped genes; database release v1.1. The similarity tool is v1.3.

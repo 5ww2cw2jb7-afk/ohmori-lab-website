@@ -232,8 +232,8 @@ window.OHMORI_EDITABLE = {
       "en": "Rice Signature Explorer v1.3"
     },
     "riceSignatureText": {
-      "ja": "イネの遺伝子IDとlog2FCから、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性を検索します。Spearman相関、モジュール・時系列解析、ヒートマップ、CSV出力に対応しています。",
-      "en": "Compare rice gene-level log2 fold changes against 382 RED 2.0 and RiceXPro reference signatures. Explore Spearman correlations, modules, time-series patterns, heatmaps, and CSV exports."
+      "ja": "イネの遺伝子IDとlog2FCを入力し、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性をSpearman順位相関で検索します。入力データには任意でモジュール名（module）や時間情報（time_h）を付与できます。複数時点を入力した場合は時点別の相関をヒートマップで比較でき、CSV出力にも対応しています。",
+      "en": "Compare user-provided rice gene IDs and log2 fold changes against 382 reference signatures from RED 2.0 and RiceXPro using Spearman rank correlation. Input data may optionally include module labels (module) and time information (time_h). For multiple input time points, correlations can be compared in a heatmap. CSV export is also supported."
     },
     "riceSignatureSources": {
       "ja": "データの出典・引用・利用条件 ↗",
