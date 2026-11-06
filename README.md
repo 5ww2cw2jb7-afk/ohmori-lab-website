@@ -94,10 +94,6 @@ For methods, caveats, and source links, see [Rice Signature Explorer — Data So
 
 **権利・利用条件 / Rights:** 論文のライセンスと各データセットの再配布許諾は必ずしも同一ではありません。CEを含む第三者データの公開・再配布前に、提供元ごとの最新条件や必要な許諾を確認してください。 / Article licenses do not necessarily authorize redistribution of source datasets or derived files. Verify dataset-specific rights and permissions before publication or reuse.
 
-**再現性 / Reproducibility:** 再現可能フルパックには元のブラウザ、`CE_Osj.gtf`、`build_v2.py`、生成用ファイルと検証情報を収録しています。解凍先で `python3 build_v2.py` を実行して再生成できます。実画面での最終動作確認は公開前に実施してください。 / The full reproducibility pack includes the original browser, source GTF, generator and validation files. Rebuild with `python3 build_v2.py`; perform browser-level checks before deployment.
-
-[**V2ブラウザを開く / Open V2**](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2.html) · [**出典・引用・利用条件 / Sources & terms**](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2_sources.html)
-
 ## Website Management / サイト管理
 
 Website content is maintained in this GitHub repository. The site is published using GitHub Pages.
