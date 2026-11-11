@@ -1,5 +1,53 @@
-<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Rice Signature Explorer — Data Sources &amp; Citations</title><style>body{font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif;background:#fff;color:#20332e;line-height:1.85;margin:0}.wrap{max-width:880px;margin:3rem auto;padding:0 24px}h1{font-size:1.9rem}h2{margin-top:2rem;border-bottom:1px solid #dbe6dd;padding-bottom:.3rem}a{color:#1d6049}code{background:#f3f7f4;padding:.12em .3em}small{color:#56695e}.panel{background:#f3f7f4;padding:1rem 1.2rem;border-radius:8px}</style></head><body><main class="wrap"><p><a href="index.html#tools">← 研究ツール一覧へ</a></p><h1>Rice Signature Explorer — データの出典・引用・使用上の注意</h1><p>公開ツールの解析用データセット：RICE_SIGNATURE_DB v1.1。共通24,061遺伝子に対し、RED 2.0由来328比較とRiceXPro由来54比較を統合しています。</p>
-<h2>一次データの出典</h2><ul><li><strong>RED 2.0</strong> — Wang et al. (2026), <em>Rice Expression Database (RED) 2.0</em>, <em>Nucleic Acids Research</em>. <a href="https://doi.org/10.1093/nar/gkag1064">DOI:10.1093/nar/gkag1064</a> · <a href="https://ngdc.cncb.ac.cn/red/">RED公式サイト</a></li><li><strong>RiceXPro</strong> — Sato et al. (2013), <em>RiceXPro version 3.0</em>, <em>Nucleic Acids Research</em>. <a href="https://doi.org/10.1093/nar/gks1125">DOI:10.1093/nar/gks1125</a> · <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39429">GEO GSE39429</a></li></ul>
-<h2>本ツールで行った処理</h2><p>RED 2.0のTPM値から、処理／対照の群平均を用いた <code>log2((mean(TPM_treatment)+1)/(mean(TPM_control)+1))</code> を算出。RiceXProには二色マイクロアレイのlog2(Cy5/Cy3)に由来する値を使用しました。RED 2.0公式ID MapperによるAGIS–RAP-DBの1対1対応を採用し、24,061共通遺伝子に統一しました。検索は主としてSpearman順位相関を使用し、符号一致率・一致遺伝子数・比較ごとのQCを併記します。</p>
-<h2>解釈上の注意</h2><p>異なる測定プラットフォーム、実験デザイン、反復数に由来する発現変動を比較しています。相関は生物学的機構や因果関係の証明ではありません。RED 2.0の一部比較にはメタデータ確認上の制約があり、比較ごとのQC情報を確認してください。ユーザー入力は、ブラウザ内で解析するオフライン仕様のHTMLに組み込まれた処理によって計算されます。</p>
-<h2>再利用・ライセンス</h2><p>本ツールは既存の公開研究データを加工・統合したものです。元データ、原著論文、ツールの著作権および再配布条件を同一視しないでください。<strong>このページはライセンス許諾を新たに付与するものではありません。</strong> データ再配布に関する個別条件は各公式提供元で確認してください。公開前にはサイト管理者が表示文と規約の整合性を最終確認してください。</p><p><small>Software: Rice Signature Explorer v1.3 / dataset: RICE_SIGNATURE_DB v1.1</small></p></main></body></html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Rice Signature Explorer: 3,009 rice expression signatures, data sources, fold-change calculations, quality control and interpretation.">
+<title>Rice Signature Explorer — データの出典・引用・使用上の注意</title>
+<style>
+:root{--green:#1d6049;--ink:#20332e;--muted:#56695e;--line:#dbe6dd;--soft:#f3f7f4}
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,'Noto Sans JP',sans-serif;background:white;color:var(--ink);line-height:1.85;margin:0}.wrap{max-width:980px;margin:2rem auto 5rem;padding:0 24px}h1{font-size:clamp(1.5rem,3vw,2rem);line-height:1.45}h2{margin-top:2.2rem;border-bottom:1px solid var(--line);padding-bottom:.3rem;font-size:1.35rem}h3{margin-bottom:.3rem}a{color:var(--green)}code{background:var(--soft);padding:.12em .3em;overflow-wrap:anywhere}.panel{background:var(--soft);padding:1rem 1.3rem;border-radius:8px}.notice{border-left:4px solid #a87b33;background:#fff9eb;padding:.8rem 1.2rem;border-radius:5px}.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.95rem}th,td{border-bottom:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}th{background:var(--soft)}td:last-child,th:last-child{text-align:right;white-space:nowrap}small{color:var(--muted)}ul{padding-left:1.5rem}li{margin:.35rem 0}p{overflow-wrap:anywhere}
+</style>
+</head>
+<body><main class="wrap">
+<p><a href="index.html#tools">← 研究ツール一覧へ</a></p>
+<h1>Rice Signature Explorer — データの出典・引用・使用上の注意</h1>
+<div class="notice"><strong>公開状況（2026年11月）</strong>：研究室サイトで現在利用できるのはv1.3（382比較）です。v2.2拡張版（3,009比較）はローカルでの統合・基本動作確認が済み、ウェブ公開の準備中です。以下の3,009比較の仕様は<strong>準備中の新版</strong>についての説明であり、現在公開されているv1.3の収録内容とは異なります。</div>
+<h2>拡張版の参照データ内訳</h2>
+<p>v2.2拡張版では、RAP-DB遺伝子IDの和集合<strong>37,537遺伝子</strong>に対して、合計<strong>3,009比較</strong>の処理／対照発現変動シグニチャーを格納しています。各比較のFC欠損はゼロ埋めしません。すべての遺伝子がすべての比較で測定されているわけではありません。</p>
+<div class="tablewrap"><table><thead><tr><th>データソース</th><th>測定・由来</th><th>比較数</th></tr></thead><tbody>
+<tr><td>RED 2.0</td><td>RNA-seq TPM</td><td>328</td></tr>
+<tr><td>RiceXPro / GEO GSE39429</td><td>2色マイクロアレイ、ホルモン処理</td><td>54</td></tr>
+<tr><td>NCBI GEO（複数GSE/GPL）</td><td>マイクロアレイ</td><td>1,805</td></tr>
+<tr><td>UGA/RGAP MSU7</td><td>RNA-seq TPM</td><td>7</td></tr>
+<tr><td>Plant Public RNA-Seq Database（PPRD / PlantRNA DB）</td><td>RNA-seq FPKMから派生</td><td>815</td></tr>
+<tr><th colspan="2">合計</th><th>3,009</th></tr>
+</tbody></table></div>
+<p>管理CSVの3,093行には、収録されていない84件の追加候補も含まれます。画面に収録している参照比較数は3,009です。</p>
+<h2>一次データの出典</h2>
+<ul>
+<li><strong>RED 2.0：</strong>Wang et al. (2026), <em>Rice Expression Database (RED) 2.0</em>, <em>Nucleic Acids Research</em>. <a href="https://doi.org/10.1093/nar/gkag1064">DOI:10.1093/nar/gkag1064</a> ・ <a href="https://ngdc.cncb.ac.cn/red/">公式サイト</a></li>
+<li><strong>RiceXPro：</strong>Sato et al. (2013), <em>RiceXPro version 3.0</em>, <em>Nucleic Acids Research</em>. <a href="https://doi.org/10.1093/nar/gks1125">DOI:10.1093/nar/gks1125</a> ・ <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39429">GEO GSE39429</a></li>
+<li><strong>GEOマイクロアレイ：</strong><a href="https://www.ncbi.nlm.nih.gov/geo/">NCBI Gene Expression Omnibus</a> の複数のGSE/GPL由来。個々のGSE・GPLと引用対象文献は比較ごとに異なるため、詳細メタデータを確認してください。</li>
+<li><strong>UGA/RGAP MSU7：</strong>MSU7遺伝子座に基づくRNA-seq TPMデータを解析した派生比較。遺伝子ID変換には<a href="https://rapdb.dna.naro.go.jp/">RAP-DB</a>の2026-02-05対応表を使用しました。一次データの試験・配布元に関する詳細は各比較の記録を確認してください。</li>
+<li><strong>Plant Public RNA-Seq Database（PPRD / PlantRNA DB）：</strong><a href="https://plantrnadb.com/ricerna/tutorials.php">イネRNA-seqデータベースの説明</a>。イネ11,726ライブラリのFPKM値を配布するリソースです。本ツールで使用した815比較は、研究室側が選定・群分け・再計算した<strong>派生シグニチャー</strong>です。<strong>tRNAのPlantRNAデータベースとは別のリソース</strong>です。</li>
+</ul>
+<h2>比較の構築とlog2FCの定義</h2>
+<ul>
+<li><strong>RED 2.0（328）：</strong><code>log2((mean(TPM_treatment)+1)/(mean(TPM_control)+1))</code>。</li>
+<li><strong>RiceXPro（54）：</strong><code>log2(Cy5/Cy3)</code>（処理／対照）。54件はいずれもホルモン処理由来です。</li>
+<li><strong>GEOマイクロアレイ（1,805）：</strong>元データから算出した処理対対照のプローブ単位log2FCをRAP-DBに対応付け、遺伝子への一意対応プローブが複数ある場合は中央値で集約。GSE/GPL間で前処理と信号の尺度は統一されていません。</li>
+<li><strong>UGA/RGAP MSU7（7）：</strong>Kallisto由来TPMを遺伝子座単位に集計し、<code>log2((mean(TPM_treatment)+1)/(mean(TPM_control)+1))</code>。RAP-DBとの厳密な1対1対応を使用。塩処理12h・24hの対照は処理前0hです。</li>
+<li><strong>PPRD / PlantRNA DB（815）：</strong><code>log2((mean(FPKM_treatment)+1)/(mean(FPKM_control)+1))</code>。メタデータに基づき、処理対対照621比較と変異体・遺伝子型対WT等194比較を選定しました。55,801 MSU7遺伝子座からRAP-DB公式2026-02-05対応表による厳密な1対1対応<strong>31,003遺伝子</strong>を採用し、曖昧な対応は除外しました。遺伝子単位FCを変換時に再計算・集約していません。</li>
+</ul>
+<h2>解析指標と解釈上の注意</h2>
+<p>入力遺伝子のlog2FCと各参照比較の<strong>共通して有限値が存在するRAP-DB遺伝子</strong>を使用し、Spearman順位相関ρ（同順位は平均順位）を計算します。共通遺伝子数・符号一致率・QCを併記します。近似両側p値および<strong>選択された参照比較の集合に対するBenjamini–Hochberg（BH）補正q値</strong>は探索的な指標です。入力遺伝子選抜・遺伝子間依存性・複数GSE間の非独立性を十分に補正するものではなく、生物学的機構や因果関係の証拠にはなりません。</p>
+<p>FCはデータソース間で前処理、発現単位、擬似カウント、実験デザインが異なります。異なるソースのFC絶対値を同一尺度のように解釈しないでください。欠損値はゼロではなく、<strong>log2FC=0は有効値</strong>です。</p>
+<div class="panel"><h3>FPKM追加815比較のQCについて</h3><p>815比較のFC計算と遺伝子ID変換は技術的に完了しましたが、各比較の<strong>処理／対照の生物学的な組み合わせは全件再監査していません（NOT_AUDITED）</strong>。メタデータの不足や時間・遺伝子型の不確実性を示すフラグがある場合があります。フラグを無条件の誤比較と見なさず、重要な候補について元サンプルの条件・実験設計を確認してください。</p></div>
+<h2>研究室で行った派生データ処理と貢献</h2>
+<p>比較条件と対照群の選定、サンプル群の整列、FC算出、遺伝子IDの一意対応付け、曖昧な対応の除外、QC注記、データセット横断の統合、検索・可視化インターフェースの構築は、公開元データとは別の研究室側の派生的な処理です。ご利用の際は、各原データに加え、Rice Signature ExplorerおよびOhmori Labによる統合・解析への適切なクレジットをご検討ください。</p>
+<h2>データの利用条件と再配布</h2>
+<p>一次データと原著論文の権利、データベースの利用条件、研究室が作成した派生行列およびソフトウェアの権利は別々です。<strong>本ページは第三者データの再配布や商用利用について追加の許可を与えるものではありません。</strong> 再配布する場合は各提供元の規約・引用条件を確認してください。研究室作成部分の再利用条件についても、別途明示されたライセンスが優先します。</p>
+<p><small>公開中：Rice Signature Explorer v1.3 / 382比較。公開準備中：v2.2拡張版 / 3,009比較 / 37,537 RAP-DB遺伝子（2026年11月時点）。</small></p>
+</main></body></html>
