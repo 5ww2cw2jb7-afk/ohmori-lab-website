@@ -228,12 +228,12 @@ window.OHMORI_EDITABLE = {
       "en": "View GCIC on GitHub ↗"
     },
     "riceSignatureTitle": {
-      "ja": "Rice Signature Explorer v1.3",
-      "en": "Rice Signature Explorer v1.3"
+      "ja": "Rice Signature Explorer v1.3（公開中）／v2.2・3,009比較（公開準備中）",
+      "en": "Rice Signature Explorer v1.3 (available) / v2.2, 3,009 signatures (coming soon)"
     },
     "riceSignatureText": {
-      "ja": "イネの遺伝子IDとlog2FCを入力し、RED 2.0とRiceXPro由来の382比較との発現変動パターンの類似性をSpearman順位相関で検索します。入力データには任意でモジュール名（module）や時間情報（time_h）を付与できます。複数時点を入力した場合は時点別の相関をヒートマップで比較でき、CSV出力にも対応しています。",
-      "en": "Compare user-provided rice gene IDs and log2 fold changes against 382 reference signatures from RED 2.0 and RiceXPro using Spearman rank correlation. Input data may optionally include module labels (module) and time information (time_h). For multiple input time points, correlations can be compared in a heatmap. CSV export is also supported."
+      "ja": "現在公開中のv1.3では、RED 2.0・RiceXPro由来の382比較を対象に、イネ遺伝子のlog2FCと参照シグニチャーとのSpearman順位相関を検索できます。新しいv2.2拡張版（公開準備中）は、GEOマイクロアレイ、UGA/RGAP MSU7、PlantRNA DB FPKMを加えた計3,009比較・37,537 RAP-DB遺伝子に対応し、参照データの組み合わせ選択、BH補正q値、遺伝子別・時系列ヒートマップ、ワードクラウド型の語彙俯瞰、CSV出力などを備えます。下の「解析ツールを開く」は、現在も公開中のv1.3に移動します。",
+      "en": "The currently available v1.3 searches 382 reference signatures from RED 2.0 and RiceXPro using Spearman rank correlation against user-supplied rice gene log2 fold changes. The expanded v2.2 (in preparation) covers 3,009 comparisons and 37,537 RAP-DB genes across RED 2.0, RiceXPro, GEO microarrays, UGA/RGAP MSU7, and PlantRNA DB FPKM. It adds selectable data sources, BH-adjusted q-values, gene/time-point heatmaps, a keyword overview, and CSV export. The “Open explorer” link below continues to open the currently available v1.3."
     },
     "riceSignatureSources": {
       "ja": "データの出典・引用・利用条件 ↗",
@@ -244,8 +244,8 @@ window.OHMORI_EDITABLE = {
       "en": "Open explorer ↗"
     },
     "toolNote": {
-      "ja": "※ 添付された既存HTMLをそのまま収録しています。公開前にデータの出典・ライセンス・注意書きを確認してください。",
-      "en": "Note: The original HTML was included without modification. Check data sources, licenses, and scientific caveats before public release."
+      "ja": "※ Rice Signature Explorerの公開リンクは現在v1.3（382比較）です。v2.2拡張版（3,009比較）は公開準備中です。参照データの算出方法・出典・利用上の注意は「データの出典・引用・利用条件」をご覧ください。",
+      "en": "Note: The public Rice Signature Explorer link currently opens v1.3 (382 comparisons). The expanded v2.2 (3,009 comparisons) is being prepared for release. See “Data sources, citations & terms” for dataset provenance, fold-change definitions and caveats."
     },
     "csvAppTitle": {
       "ja": "CSV Data Visualization App — R / Shiny",
