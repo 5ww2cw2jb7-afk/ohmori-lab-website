@@ -239,6 +239,10 @@ window.OHMORI_EDITABLE = {
       "ja": "データの出典・引用・利用条件 ↗",
       "en": "Data sources, citations & terms ↗"
     },
+    "riceSignatureCatalog": {
+      "ja": "収録3,009比較の一覧を見る ↗",
+      "en": "Browse all 3,009 reference comparisons ↗"
+    },
     "riceSignatureButton": {
       "ja": "解析ツールを開く ↗",
       "en": "Open explorer ↗"
