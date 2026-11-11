@@ -19,7 +19,7 @@ Our research integrates informatics, molecular genetics, breeding, and multi-omi
 | Tool | Description | Links |
 | --- | --- | --- |
 | **Rice QTL / GWAS Genome Browser V2** | イネQTL/GWAS、RAP遺伝子、PlantRegMap由来の保存領域（CE）の探索 / Rice QTL/GWAS, RAP genes and conserved elements | [Open](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2.html) · [Sources & caveats](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_browser_v2_sources.html) |
-| **Rice Signature Explorer** | イネの発現変動パターンをSpearman順位相関で比較 / Rice expression-signature similarity analysis | [Open current public version (v1.3; 382 comparisons)](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_explorer.html) · [Sources & methods](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html) |
+| **Rice Signature Explorer** | イネの発現変動パターンをSpearman順位相関で比較 / Rice expression-signature similarity analysis | [Open current public version (v1.3; 382 comparisons)](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_explorer.html) · [Sources & methods](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html) · [3,009 comparison catalog](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_ALL_3009_comparisons.html) |
 | **GCIC** | 遺伝子周辺のcis制御モチーフ分布の探索 / Gene-centered cis-regulatory motif analysis | [GitHub](https://github.com/5ww2cw2jb7-afk/gcic_dockerized_package) |
 | **CSV Data Visualization App** | CSVのヒストグラム・散布図・箱ひげ図 / R/Shiny visualization app | [Open](https://yoshihiro-ohmori.shinyapps.io/session4/) |
 
@@ -27,6 +27,7 @@ Our research integrates informatics, molecular genetics, breeding, and multi-omi
 
 - **Currently public / 現在公開中:** v1.3, **382 comparisons** (RED 2.0: 328; RiceXPro: 54). The link above continues to open this version.
 - **In preparation / 公開準備中:** extended v2.2-based Explorer, **3,009 comparisons**, **37,537 RAP-DB gene IDs** across five sources: RED 2.0 (328), RiceXPro (54), GEO microarrays (1,805), UGA/RGAP MSU7 (7), and PlantRNA DB-derived FPKM (815).
+- [Browse the metadata of all 3,009 comparisons](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_ALL_3009_comparisons.html) (no gene-level FC values).
 - The 815 FPKM-derived comparisons have been **technically integrated**, but their biological comparison metadata have **not been individually audited**. The extended version is **not yet available from the public Explorer link**.
 
 原データ、FC算出法、遺伝子ID対応、解釈上の注意、および引用・利用条件は[出典・方法ページ](https://5ww2cw2jb7-afk.github.io/ohmori-lab-website/rice_signature_sources.html)にまとめています。第三者データの権利や再配布条件は各提供元の規約に従います。
